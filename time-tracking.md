@@ -14,7 +14,20 @@ Keep in mind, we *do not expect employees to log exactly 37.5 hours of time in H
 
 ## Good time tracking
 
-- Use Harvest to create a new entry for each new activity you need to track. E.g. a meeting or call would be tracked as a separate item from development. 
-- Use good descriptions that will make sense to both us and a client E.g. "Writing automated tests for the new referrals feature" instead of "Tests"
-- Don't get neurotic about starting and stopping your timer, but do stop it if you're not going to be working on something for more than 5 minutes.
-- Remember, you can retroactively edit your time entries and descriptions with Harvest. So if something's incorrect please don't be afraid to change it.
+### Track specific tasks
+
+Harvest allows you to enter muiltiple tasks in a single day, and it's good practice to track these tasks individually. Use Harvest to create a new entry for each new activity you need to track; for example, a client meeting or conference call would be tracked as a separate item from development on their application. 
+
+If you can't find the client, project, or task you need to track, raise it with Chris or Mike, and they'll amend Harvest.
+
+### Add a description
+
+Harvest provides a mechanism for adding descriptions to an entry via the _Add notes_ field. Use good descriptions that will make sense to both us and a client; for example, _"Writing automated tests for the new referrals feature"_, rather than _"Tests"_.
+
+### Start & stop your timer as neeeded
+
+The day is full of distractions, and sometimes you'll be stopped in your tracks while a timer is running. If you're not going to be working on something for more than a couple of minutes, simply pause your timer, and start it again when you're ready to pick the task back up.
+
+### We all make mistakes
+
+From time to time, you'll either forget to start a timer, or you'll leave one running at the end of the working day. If you fidn yourself having made one of these mistakes, you can retroactively edit your time entries and descriptions with Harvest. If something's gone wrong, don't be afraid to change it; just do your best in estimating the correct entry.
