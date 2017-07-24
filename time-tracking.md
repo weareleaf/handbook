@@ -24,10 +24,10 @@ If you can't find the client, project, or task you need to track, raise it with 
 
 Harvest provides a mechanism for adding descriptions to an entry via the _Add notes_ field. Use good descriptions that will make sense to both us and a client; for example, _"Writing automated tests for the new referrals feature"_, rather than _"Tests"_.
 
-### Start & stop your timer as neeeded
+### Stop and start your timer as neeeded
 
 The day is full of distractions, and sometimes you'll be stopped in your tracks while a timer is running. If you're not going to be working on something for more than a couple of minutes, simply pause your timer, and start it again when you're ready to pick the task back up.
 
 ### We all make mistakes
 
-From time to time, you'll either forget to start a timer, or you'll leave one running at the end of the working day. If you fidn yourself having made one of these mistakes, you can retroactively edit your time entries and descriptions with Harvest. If something's gone wrong, don't be afraid to change it; just do your best in estimating the correct entry.
+From time to time, you'll either forget to start a timer, or you'll leave one running at the end of the working day. If either of these happen, you can retroactively edit your time entries and descriptions with Harvest. If something's gone wrong, don't be afraid to change it; just do your best in estimating the correct entry.
