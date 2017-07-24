@@ -2,4 +2,4 @@
 Leaf's company handbook
 
 ## Contents
-- [Time tracking]()
+- [Time tracking](time-tracking.md)
