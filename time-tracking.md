@@ -24,7 +24,7 @@ If you can't find the client, project, or task you need to track, raise it with 
 
 Harvest provides a mechanism for adding descriptions to an entry via the _Add notes_ field. Use good descriptions that will make sense to both us and a client; for example, _"Writing automated tests for the new referrals feature"_, rather than _"Tests"_.
 
-### Stop and start your timer as neeeded
+### Stop and start your timer as needed
 
 The day is full of distractions, and sometimes you'll be stopped in your tracks while a timer is running. If you're not going to be working on something for more than a couple of minutes, simply pause your timer, and start it again when you're ready to pick the task back up.
 
