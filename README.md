@@ -36,6 +36,9 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Return to work](sickness-and-injury/return-to-work.md)
 - [Self-certification absence](sickness-and-injury/self-certification-absence.md)
 
+## Benefits
+- [Employee assistance programme](benefits/employee-assistance-programme.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)

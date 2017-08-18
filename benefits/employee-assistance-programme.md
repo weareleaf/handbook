@@ -1,0 +1,3 @@
+# Employee assistance programme
+
+We recognise that sometimes you may face certain challenges in your work and home life that you are difficult to deal with. We subscribe to a confidential and professional life management service which provides you with a qualified counsellor who can offer personal support for any practical or emotional challenges you may be facing. The service is initially provided via telephone and online advice but face to face meetings will be arranged where this is felt clinically appropriate. This service is totally confidential. More details of this service are available from Chris or Mike.
