@@ -50,10 +50,6 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Email and Internet policy](safeguards/email-and-internet-policy.md)
 - [Social networking](safeguards/social-networking.md)
 
-## Day-to-day tasks
-- [Time tracking](time-tracking.md)
-- [Internal communications](internal-communications.md)
-
 ## Standards
 - [Wastage](standards/wastage.md)
 - [Dress code](standards/dress-code.md)
@@ -63,3 +59,20 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Safety](health-safety-welfare-and-hygiene/safety.md)
 - [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
 - [Hygiene](health-safety-welfare-and-hygiene/hygiene.md)
+
+## Terms of employment, information and procedures
+- [Changes in personal details](terms-of-employment-information-and-procedures/changes-in-personal-details.md)
+- [Other employment](terms-of-employment-information-and-procedures/other-employment.md)
+- [Time off](terms-of-employment-information-and-procedures/time-off.md)
+- [Maternity/paternity leave](terms-of-employment-information-and-procedures/maternity-paternity-leave.md)
+- [Parental leave](terms-of-employment-information-and-procedures/parental-leave.md)
+- [Time off for dependants](terms-of-employment-information-and-procedures/time-off-for-dependants.md)
+- [Bereavement leave](terms-of-employment-information-and-procedures/bereavement-leave.md)
+- [Travel expenses](terms-of-employment-information-and-procedures/travel-expenses.md)
+- [Car insurance](terms-of-employment-information-and-procedures/car-insurance.md)
+- [Fines](terms-of-employment-information-and-procedures/fines.md)
+- [Driving licence](terms-of-employment-information-and-procedures/driving-licence.md)
+
+## Day-to-day tasks
+- [Time tracking](time-tracking.md)
+- [Internal communications](internal-communications.md)
