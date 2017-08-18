@@ -12,7 +12,7 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Joining Leaf
 - [Probation period](joining-leaf/probation-period.md)
 - [Job description](joining-leaf/job-description.md)
-- [Employee training](joining-leaf/mployee-training.md)
+- [Employee training](joining-leaf/employee-training.md)
 - [Performance and review](joining-leaf/performance-and-review.md)
 - [Staff appraisal scheme](joining-leaf/staff-appraisal-scheme.md)
 - [Job flexibility](joining-leaf/job-flexibility.md)
@@ -38,6 +38,17 @@ General amendments to the Employee Handbook will be issued from time to time.
 
 ## Benefits
 - [Employee assistance programme](benefits/employee-assistance-programme.md)
+
+## Safeguards
+- [Confidentiality](safeguards/confidentiality.md)
+- [Intellectual property](safeguards/intellectual-property.md)
+- [Company property and copyright](safeguards/company-property-and-copyright.md)
+- [Statements to the media](safeguards/statements-to-the-media.md)
+- [Inventions and discoveries](safeguards/inventions-and-discoveries.md)
+- [Virus protection procedures](safeguards/virus-protection-procedures.md)
+- [Use of computer equipment](safeguards/use-of-computer-equipment.md)
+- [Email and Internet policy](safeguards/email-and-internet-policy.md)
+- [Social networking](safeguards/social-networking.md)
 
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
