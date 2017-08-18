@@ -110,10 +110,10 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [General notes](personal-harassment-procedures/general-notes.md)
 
 ## Equal opportunities
-- [Statement of policy](equal-oppertunities/statement-of-policy.md)
-- [Recruitment and selection](equal-oppertunities/recruitment-and-selection.md)
-- [Training and promotion](equal-oppertunities/training-and-promotion.md)
-- [Monitoring](equal-oppertunities/monitoring.md)
+- [Statement of policy](equal-opportunities/statement-of-policy.md)
+- [Recruitment and selection](equal-opportunities/recruitment-and-selection.md)
+- [Training and promotion](equal-opportunities/training-and-promotion.md)
+- [Monitoring](equal-opportunities/monitoring.md)
 
 ## Termination of employment
 - [Resignation](termination-of-employment/resignation.md)

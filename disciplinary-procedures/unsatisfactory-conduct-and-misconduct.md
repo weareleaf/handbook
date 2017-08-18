@@ -1,4 +1,4 @@
-# unsatisfactory conduct and misconduct
+# Unsatisfactory conduct and misconduct
 
 You will be liable to disciplinary action if you are found to have acted in any of the following ways:-
 - failure to abide by the general health and safety rules and procedures;
