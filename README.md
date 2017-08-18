@@ -78,13 +78,13 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Driving licence](terms-of-employment-information-and-procedures/driving-licence.md)
 
 ## Whistle-blowing
-- [Whistle-blowing policy](standards/whistle-blowing-policy.md)
+- [Whistle-blowing policy](whistle-blowing/whistle-blowing-policy.md)
 
 ## Capability procedures
-- [Introduction](standards/introduction.md)
-- [Job changes and general capability issues](job-changes-and-general-capability-issues.md)
-- [Personal circumstances and health issues](standards/personal-circumstances-and-health-issues.md)
-- [Short service staff](standards/short-service-staff.md)
+- [Introduction](capability-procedures/introduction.md)
+- [Job changes and general capability issues](capability-procedures/job-changes-and-general-capability-issues.md)
+- [Personal circumstances and health issues](capability-procedures/personal-circumstances-and-health-issues.md)
+- [Short service staff](capability-procedures/short-service-staff.md)
 
 ## Disciplinary procedures
 - [Introduction](disciplinary-procedures/introduction.md)
