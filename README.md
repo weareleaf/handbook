@@ -58,3 +58,8 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Wastage](standards/wastage.md)
 - [Dress code](standards/dress-code.md)
 - [Housekeeping](standards/housekeeping.md)
+
+## Health, safety, welfare and hygiene
+- [Safety](health-safety-welfare-and-hygiene/safety.md)
+- [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
+- [Hygiene](health-safety-welfare-and-hygiene/hygiene.md)
