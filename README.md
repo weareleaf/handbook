@@ -12,12 +12,18 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Joining Leaf
 - [Probation period](joining-leaf/probation-period.md)
 - [Job description](joining-leaf/job-description.md)
-- [Employee training](ejoining-leaf/mployee-training.md)
+- [Employee training](joining-leaf/mployee-training.md)
 - [Performance and review](joining-leaf/performance-and-review.md)
 - [Staff appraisal scheme](joining-leaf/staff-appraisal-scheme.md)
 - [Job flexibility](joining-leaf/job-flexibility.md)
 - [Mobility](joining-leaf/mobility.md)
 
-## Contents
+## Salaries
+- [Administration](salaries/administration.md)
+- [Lateness, absenteeism, time recording](salaries/lateness-absenteeism-time-recording.md)
+- [Shortage of work](salaries/shortage-of-work.md)
+- [Stakeholder pensions](salaries/stakeholder-pensions.md)
+
+## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
