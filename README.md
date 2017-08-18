@@ -93,6 +93,9 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Period of warnings](disciplinary-procedures/period-of-warnings.md)
 - [General notes](disciplinary-procedures/general-notes.md)
 
+## Capability/disciplinary appeal
+- [Capability/disciplinary appeals procedure](capability-disciplinary-appeals/capability-disciplinary-appeal-procedure.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
