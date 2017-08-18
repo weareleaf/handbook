@@ -24,10 +24,18 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Shortage of work](salaries/shortage-of-work.md)
 - [Stakeholder pensions](salaries/stakeholder-pensions.md)
 
+## Holiday entitlement
+- [Annual holidays](holiday-entitlement/annual-holidays.md)
+- [Bank holidays](holiday-entitlement/bank-holidays.md)
+
+## Sickness and injury
+- [General](sickness-and-injury/general.md)
+- [Notification of incapacity to work](sickness-and-injury/notification-of-incapacity-to-work.md)
+- [Evidence of incapacity](sickness-and-injury/evidence-of-incapacity.md)
+- [Payments](sickness-and-injury/payments.md)
+- [Return to work](sickness-and-injury/return-to-work.md)
+- [Self-certification absence](sickness-and-injury/self-certification-absence.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
-
-## Holiday entitlement
-- [Annual holidays](annual-holidays.md)
-- [Bank holidays](bank-holidays.md)
