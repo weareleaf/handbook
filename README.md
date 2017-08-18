@@ -76,6 +76,12 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Whistle-blowing
 - [Whistle-blowing policy](standards/whistle-blowing-policy.md)
 
+## Capability procedures
+- [Introduction](standards/introduction.md)
+- [Job changes and general capability issues](job-changes-and-general-capability-issues.md)
+- [Personal circumstances and health issues](standards/personal-circumstances-and-health-issues.md)
+- [Short service staff](standards/short-service-staff.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
