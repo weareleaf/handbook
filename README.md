@@ -27,3 +27,7 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
+
+## Holiday entitlement
+- [Annual holidays](annual-holidays.md)
+- [Bank holidays](bank-holidays.md)
