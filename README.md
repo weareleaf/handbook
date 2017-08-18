@@ -36,6 +36,10 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Return to work](sickness-and-injury/return-to-work.md)
 - [Self-certification absence](sickness-and-injury/self-certification-absence.md)
 
+## Day-to-day tasks
+- [Internal communications](day-to-day-tasksinternal-communications.md)
+- [Time tracking](day-to-day-taskstime-tracking.md)
+
 ## Benefits
 - [Employee assistance programme](benefits/employee-assistance-programme.md)
 
@@ -111,6 +115,8 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Training and promotion](equal-oppertunities/training-and-promotion.md)
 - [Monitoring](equal-oppertunities/monitoring.md)
 
-## Day-to-day tasks
-- [Time tracking](time-tracking.md)
-- [Internal communications](internal-communications.md)
+## Termination of employment
+- [Resignation](termination-of-employment/resignation.md)
+- [Notice period](termination-of-employment/notice-period.md)
+- [Returning of property](termination-of-employment/returning-of-property.md)
+- [Gardening leave](termination-of-employment/gardening-leave.md)
