@@ -82,6 +82,17 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Personal circumstances and health issues](standards/personal-circumstances-and-health-issues.md)
 - [Short service staff](standards/short-service-staff.md)
 
+## Disciplinary procedures
+- [Introduction](disciplinary-procedures/introduction.md)
+- [Disciplinary rules](disciplinary-procedures/disciplinary-rules.md)
+- [Unsatisfactory conduct and misconduct](disciplinary-procedures/unsatisfactory-conduct-and-misconduct.md)
+- [Serious misconduct](disciplinary-procedures/serious-misconduct.md)
+- [Gross misconduct](disciplinary-procedures/gross-misconduct.md)
+- [Disciplinary procedure](disciplinary-procedures/disciplinary-procedure.md)
+- [Disciplinary authority](disciplinary-procedures/disciplinary-authority.md)
+- [Period of warnings](disciplinary-procedures/period-of-warnings.md)
+- [General notes](disciplinary-procedures/general-notes.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
