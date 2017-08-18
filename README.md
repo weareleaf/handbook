@@ -10,16 +10,13 @@ Please note that we provide equal opportunities and are committed to the princip
 General amendments to the Employee Handbook will be issued from time to time.
 
 ## Joining Leaf
-- [Probation period](probation-period.md)
-- [Job description](job-description.md)
-- [Employee training](employee-training.md)
-- [Performance and review](performance-and-review.md)
-- [Staff appraisal scheme](staff-appraisal-scheme.md)
-- [Job flexibility](job-flexibility.md)
-- [Mobility](mobility.md)
-
-
-
+- [Probation period](joining-leaf/probation-period.md)
+- [Job description](joining-leaf/job-description.md)
+- [Employee training](ejoining-leaf/mployee-training.md)
+- [Performance and review](joining-leaf/performance-and-review.md)
+- [Staff appraisal scheme](joining-leaf/staff-appraisal-scheme.md)
+- [Job flexibility](joining-leaf/job-flexibility.md)
+- [Mobility](joining-leaf/mobility.md)
 
 ## Contents
 - [Time tracking](time-tracking.md)
