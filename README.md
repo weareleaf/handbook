@@ -96,6 +96,12 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Capability/disciplinary appeal
 - [Capability/disciplinary appeals procedure](capability-disciplinary-appeals/capability-disciplinary-appeal-procedure.md)
 
+
+## Grievances
+- [Grievance procedure](grievances/grievance-procedure.md)
+
+
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
