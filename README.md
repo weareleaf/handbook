@@ -13,7 +13,7 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Probation period](joining-leaf/probation-period.md)
 - [Job description](joining-leaf/job-description.md)
 - [Employee training](joining-leaf/employee-training.md)
-- [Performance and review](joining-leaf/performance-and-review.md)
+- [Performance review](joining-leaf/performance-review.md)
 - [Staff appraisal scheme](joining-leaf/staff-appraisal-scheme.md)
 - [Job flexibility](joining-leaf/job-flexibility.md)
 - [Mobility](joining-leaf/mobility.md)
@@ -37,8 +37,8 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Self-certification absence](sickness-and-injury/self-certification-absence.md)
 
 ## Day-to-day tasks
-- [Internal communications](day-to-day-tasksinternal-communications.md)
-- [Time tracking](day-to-day-taskstime-tracking.md)
+- [Internal communications](day-to-day-tasks/internal-communications.md)
+- [Time tracking](day-to-day-tasks/time-tracking.md)
 
 ## Benefits
 - [Employee assistance programme](benefits/employee-assistance-programme.md)
