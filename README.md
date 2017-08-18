@@ -99,11 +99,17 @@ General amendments to the Employee Handbook will be issued from time to time.
 ## Grievances
 - [Grievance procedure](grievances/grievance-procedure.md)
 
-## Personal-harassment-procedures
+## Personal harassment procedures
 - [Introduction](personal-harassment-procedures/introduction.md)
 - [Policy](personal-harassment-procedures/policy.md)
 - [Making a complaint](personal-harassment-procedures/making-a-complaint.md)
 - [General notes](personal-harassment-procedures/general-notes.md)
+
+## Equal opportunities
+- [Statement of policy](equal-oppertunities/statement-of-policy.md)
+- [Recruitment and selection](equal-oppertunities/recruitment-and-selection.md)
+- [Training and promotion](equal-oppertunities/training-and-promotion.md)
+- [Monitoring](equal-oppertunities/monitoring.md)
 
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
