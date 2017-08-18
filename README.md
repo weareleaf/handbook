@@ -73,6 +73,9 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Fines](terms-of-employment-information-and-procedures/fines.md)
 - [Driving licence](terms-of-employment-information-and-procedures/driving-licence.md)
 
+## Whistle-blowing
+- [Whistle-blowing policy](standards/whistle-blowing-policy.md)
+
 ## Day-to-day tasks
 - [Time tracking](time-tracking.md)
 - [Internal communications](internal-communications.md)
