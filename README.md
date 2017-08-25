@@ -11,10 +11,8 @@ General amendments to the Employee Handbook will be issued from time to time.
 
 ## Joining Leaf
 - [Probation period](joining-leaf/probation-period.md)
-- [Job description](joining-leaf/job-description.md)
+- [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
 - [Performance review](joining-leaf/performance-review.md)
-- [Staff appraisal scheme](joining-leaf/staff-appraisal-scheme.md)
-- [Job flexibility](joining-leaf/job-flexibility.md)
 - [Mobility](joining-leaf/mobility.md)
 
 ## Salaries
