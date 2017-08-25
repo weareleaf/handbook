@@ -1,11 +1,9 @@
-# Making a complaint
+## Making a complaint
 
-## Informal complaint
-We recognise that complaints of personal harassment, and particularly of sexual harassment, can sometimes be of a sensitive or intimate nature and that it may not be appropriate for you to raise the issue through our normal grievance procedure. In these circumstances you are encouraged to raise such issues with a senior colleague of your choice (whether or not that person has a direct supervisory responsibility for you) as a confidential helper. This person cannot be a Director who will be responsible for investigating the matter if it becomes a formal complaint.
-
+### Informal complaint
 If you are the victim of minor harassment you should make it clear to the harasser on an informal basis that their behaviour is unwelcome and ask the harasser to stop. If you feel unable to do this verbally then you should hand a written request to the harasser, and your confidential helper can assist you in this.
 
-## Formal complaint
+### Formal complaint
 Where the informal approach fails or if the harassment is more serious, you should bring the matter to the attention of a Director as a formal written complaint and again your confidential helper can assist you in this. If possible, you should keep notes of the harassment so that the written complaint can include:-
 - the name of the alleged harasser;
 - the nature of the alleged harassment;
@@ -20,3 +18,8 @@ The person dealing with the complaint will invite you to attend a meeting, at a 
 On conclusion of the investigation which will normally be within ten working days of the meeting with you, a draft report of the findings and of the investigator's proposed decision will be sent, in writing, to you and to the alleged harasser.
 
 If you or the alleged harasser are dissatisfied with the draft report or with the proposed decision this should be raised with the investigator within five working days of receiving the draft. Any points of concern will be considered by the investigator before a final report is sent, in writing, to you and to the alleged harasser. You have the right to appeal against the findings of the investigator in accordance with the appeal provisions of the grievance procedure.
+
+### General notes
+If the report concludes that the allegation is well founded, the harasser will be liable to disciplinary action in accordance with our disciplinary and disciplinary dismissal procedure. An employee who receives a formal warning or who is dismissed for harassment may appeal by using our capability/disciplinary appeal procedure.
+
+If you bring a complaint of harassment you will not be victimised for having brought the complaint. However if the report concludes that the complaint is both untrue and has been brought with malicious intent, disciplinary action will be taken against you.

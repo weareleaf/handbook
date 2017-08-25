@@ -6,7 +6,7 @@ If you believe that the company is involved in any form of wrongdoing such as:
 - environmental damage; or
 - concealing any information relating to the above
 
-you should in the first instance report your concerns to a Director who will treat the matter with complete confidence. If you are not satisfied with the explanation or reason given to you, you should raise the matter with the appropriate organisation or body, e.g. the Police, the Environment Agency, Health and Safety Executive or Social Services Department.
+you should in the first instance report your concerns to Mike or Chris, who will treat the matter with complete confidence. If you are not satisfied with the explanation or reason given to you, you should raise the matter with the appropriate organisation or body, e.g. the Police, the Environment Agency, Health and Safety Executive or Social Services Department.
 
 If you do not report your concerns to a Director you may take them direct to the appropriate organisation or body.
 

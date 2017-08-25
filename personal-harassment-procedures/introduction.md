@@ -1,5 +1,5 @@
 # Introduction
 
-1. Harassment or victimisation on the grounds of age, disability, gender reassignment, marriage and civil partnership, pregnancy or maternity, race, religion or belief, sex or sexual orientation is unacceptable.
-2. Personal harassment takes many forms ranging from tasteless jokes and abusive remarks to pestering for sexual favours, threatening behaviour and actual physical abuse. Whatever form it takes, personal harassment is always taken seriously and is totally unacceptable.
-3. We recognise that personal harassment can exist in the workplace, as well as outside, and that this can seriously affect employees' working lives by interfering with their job performance or by creating a stressful, intimidating and unpleasant working environment.
+Personal harassment can take many forms, from tasteless jokes to physical abuse. However it comes, we take it incredibly seriously, and it is totally unacceptable.
+
+We take pride in the team bond we've fostered, and anything that detracts from a fun, safe working environment will be dealt with firmly.

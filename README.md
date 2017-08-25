@@ -23,7 +23,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Holiday entitlement
 - [Annual holidays](holiday-entitlement/annual-holidays.md)
-- [Bank holidays](holiday-entitlement/bank-holidays.md)
 
 ## Sickness and injury
 - [General](sickness-and-injury/general.md)
@@ -32,9 +31,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Payments](sickness-and-injury/payments.md)
 - [Return to work](sickness-and-injury/return-to-work.md)
 - [Self-certification absence](sickness-and-injury/self-certification-absence.md)
-
-## Benefits
-- [Employee assistance programme](benefits/employee-assistance-programme.md)
 
 ## Safeguards
 - [Confidentiality](safeguards/confidentiality.md)
@@ -50,12 +46,10 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 ## Standards
 - [Wastage](standards/wastage.md)
 - [Dress code](standards/dress-code.md)
-- [Housekeeping](standards/housekeeping.md)
 
-## Health, safety, welfare and hygiene
+## Health, safety, and welfare
 - [Safety](health-safety-welfare-and-hygiene/safety.md)
 - [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
-- [Hygiene](health-safety-welfare-and-hygiene/hygiene.md)
 
 ## Terms of employment, information and procedures
 - [Changes in personal details](terms-of-employment-information-and-procedures/changes-in-personal-details.md)
@@ -98,9 +92,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Personal harassment procedures
 - [Introduction](personal-harassment-procedures/introduction.md)
-- [Policy](personal-harassment-procedures/policy.md)
 - [Making a complaint](personal-harassment-procedures/making-a-complaint.md)
-- [General notes](personal-harassment-procedures/general-notes.md)
 
 ## Equal opportunities
 - [Statement of policy](equal-opportunities/statement-of-policy.md)
