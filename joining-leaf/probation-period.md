@@ -1,5 +1,7 @@
 # Probation period
 
-You join us on an initial probationary period of three months. During this period your work performance and general suitability will be assessed and, if it is satisfactory, your employment will continue. However, if your work performance is not up to the required standard, or you are considered to be generally unsuitable, we may either take remedial action (which may include the extension of your probationary period) or terminate your employment at any time.
+If you're lucky enough to join our little company, you'll initially start on a probationary period of three months.
 
-We reserve the right not to apply our full contractual capability and disciplinary procedures during your probationary period.
+The probationary period gives both parties a chance to see whether or not we're a good fit for each other; it's better to discover we're not a match on our third date, rather than when we're walking down the isle together.
+
+During this period, both parties have the right to end the arrangement, which if triggered, would end with the employee being paid for work undertaken up to that point.
