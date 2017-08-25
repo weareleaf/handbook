@@ -1,19 +1,19 @@
 # Handbook
-Welcome to our team. We would like to wish you every success during your employment whether you recently joined us or whether you are an existing employee. We hope that your experience of working here will be positive and rewarding.
+Welcome to the Leaf Employee Handbook. These guidelines are designed to not only introduce you to our organisation, but to act as a reference throughout your employment.
 
-This Employee Handbook is designed both to introduce you to our organisation and to be of continuing use during your employment.
+While it's not the most exciting of tasks, we ask that you study the Handbook upon joining Leaf. In addition to setting out our policies, it also contains information on some of the main employee benefits that may be available to you. If you're unsure of anything in the handbook, please ask Mike or Chris, and they'll be happy to provide clarification.
 
-We ask that you study carefully the contents of this Employee Handbook as, in addition to setting out our rules and regulations, it also contains information on some of the main employee benefits that may be available to you and the policies and procedures relating to your employment. If you require any clarification or additional information please refer to your Line Manager.
-
-Please note that we provide equal opportunities and are committed to the principle of equality in accordance with legislative provisions. We expect your support in implementing these policies. We will not condone any unlawful discriminatory act or attitude in the course of your employment or in your dealings with our clients, suppliers, contract workers, members of the public or with fellow employees. Acts of unlawful discrimination, harassment or victimisation will result in disciplinary action.
-
-General amendments to the Employee Handbook will be issued from time to time.
+As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Joining Leaf
 - [Probation period](joining-leaf/probation-period.md)
 - [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
 - [Performance review](joining-leaf/performance-review.md)
 - [Mobility](joining-leaf/mobility.md)
+
+## Day-to-day tasks
+- [Internal communications](day-to-day-tasks/internal-communications.md)
+- [Time tracking](day-to-day-tasks/time-tracking.md)
 
 ## Salaries
 - [Administration](salaries/administration.md)
@@ -32,10 +32,6 @@ General amendments to the Employee Handbook will be issued from time to time.
 - [Payments](sickness-and-injury/payments.md)
 - [Return to work](sickness-and-injury/return-to-work.md)
 - [Self-certification absence](sickness-and-injury/self-certification-absence.md)
-
-## Day-to-day tasks
-- [Internal communications](day-to-day-tasks/internal-communications.md)
-- [Time tracking](day-to-day-tasks/time-tracking.md)
 
 ## Benefits
 - [Employee assistance programme](benefits/employee-assistance-programme.md)
