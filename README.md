@@ -10,6 +10,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Probation period](joining-leaf/probation-period.md)
 - [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
 - [Performance review](joining-leaf/performance-review.md)
+- [Working hours](joining-leaf/working-hours.md)
 - [Mobility](joining-leaf/mobility.md)
 
 ## Day-to-day tasks
@@ -18,7 +19,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Salaries
 - [Administration](salaries/administration.md)
-- [Working hours](salaries/working-hours.md)
 - [Shortage of work](salaries/shortage-of-work.md)
 - [Stakeholder pensions](salaries/stakeholder-pensions.md)
 
