@@ -18,7 +18,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Salaries
 - [Administration](salaries/administration.md)
-- [Lateness, absenteeism, time recording](salaries/lateness-absenteeism-time-recording.md)
+- [Working hours](salaries/working-hours.md)
 - [Shortage of work](salaries/shortage-of-work.md)
 - [Stakeholder pensions](salaries/stakeholder-pensions.md)
 
