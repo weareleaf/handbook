@@ -6,6 +6,7 @@ While it's not the most exciting of tasks, we ask that you study the Handbook up
 As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Joining Leaf
+- [You are Leaf](joining-leaf/you-are-leaf.md)
 - [Probation period](joining-leaf/probation-period.md)
 - [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
 - [Performance review](joining-leaf/performance-review.md)
@@ -93,12 +94,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 ## Personal harassment procedures
 - [Introduction](personal-harassment-procedures/introduction.md)
 - [Making a complaint](personal-harassment-procedures/making-a-complaint.md)
-
-## Equal opportunities
-- [Statement of policy](equal-opportunities/statement-of-policy.md)
-- [Recruitment and selection](equal-opportunities/recruitment-and-selection.md)
-- [Training and promotion](equal-opportunities/training-and-promotion.md)
-- [Monitoring](equal-opportunities/monitoring.md)
 
 ## Termination of employment
 - [Resignation](termination-of-employment/resignation.md)
