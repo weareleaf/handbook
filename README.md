@@ -5,8 +5,10 @@ While it's not the most exciting of tasks, we ask that you study the Handbook up
 
 As the organisation grows, we'll make occasional amendments to the Handbook.
 
+## What we stand for
+- [You are Leaf](what-we-stand-for/you-are-leaf.md)
+
 ## Joining Leaf
-- [You are Leaf](joining-leaf/you-are-leaf.md)
 - [Probation period](joining-leaf/probation-period.md)
 - [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
 - [Performance review](joining-leaf/performance-review.md)
