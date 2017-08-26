@@ -7,6 +7,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## What we stand for
 - [You are Leaf](what-we-stand-for/you-are-leaf.md)
+- [Our values](what-we-stand-for/our-values.md)
 
 ## Joining Leaf
 - [Probation period](joining-leaf/probation-period.md)
