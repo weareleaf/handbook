@@ -16,15 +16,17 @@ This all sounds very serious, but don’t worry, it’s very much your plan. If 
 
 ## The format
 The performance review is always a face to face meeting. Your manager (Mike or Chris while we’re a small company) will come meet you face to face. In the meeting, you and your manager should come prepared with answers to the following questions:
-“How have the past 6 months been generally?”
+
+### “How have the past 6 months been generally?”
 How are you feeling about yourself and your work? Have things been easy or hard? Have you learned a lot or not really? Are there any non-work related issues you’d like to discuss? 
-“What have I been doing?”
+
+### “What have I been doing?”
 Just some brief headlines on things you’ve been working on, more detailed than just a list of client or project names, but doesn’t need to detail every little change. These just provide some reference points for discussion.
 
 ### “What’s been good?”
 What have you enjoyed about your job? This could be anything.
 
-#### “What could have been better?”
+### “What could have been better?”
 What aspects of your job haven’t you enjoyed so much. Again, it could be anything.
 
 ### “Where do my strengths lie?”
@@ -32,5 +34,7 @@ What do you think you’re doing well either through hard work and focus or natu
 
 ### “What are my development opportunities?”
 Where do you think you could develop yourself professionally to improve your skillset and performance? Again, this could be anything.
+
+---
 
 Lastly, you may also want to consider some ideas for goals, although these will be worked on properly together with your manager during the meeting.
