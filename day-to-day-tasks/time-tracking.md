@@ -10,7 +10,9 @@ Since we rarely take on fixed-cost work, we typically issue a monthly invoice to
 
 Tracking time also helps us when it comes to our end of year financial statements, as some of our activity is tax-deductible to a certain extent. Having these records makes the process of claiming this tax back much easier.
 
-Keep in mind, we *do not expect employees to log exactly 37.5 hours of time in Harvest every week*. We understand that the actual amount of work you get done week to week varies, and that there are other parts of your job that take time from your working day.
+Keep in mind, we *do not expect employees to log exactly 37.5 hours of billable time in Harvest every week*. We understand that the actual amount of work you get done week to week varies, and that there are other parts of your job that take time from your working day. 
+
+It is important, however, that we understand where non-billable time is going so we know how we can improve. If you're blocked on all billable work, have an appointment, or otherwise have something that's taking up significant time in your day, just add it under the Leaf -> Admin -> General section in Harvest so we can assess whether there are ways we can improve our effectiveness.
 
 ## Good time tracking
 
