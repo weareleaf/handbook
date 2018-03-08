@@ -23,8 +23,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 
 ## Salaries
 - [Administration](salaries/administration.md)
-- [Shortage of work](salaries/shortage-of-work.md)
-- [Stakeholder pensions](salaries/pensions.md)
+- [Pensions](salaries/pensions.md)
 
 ## Vacations and Holidays
 - [Annual holidays](vacations-and-holidays/annual-holidays.md)
