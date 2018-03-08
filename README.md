@@ -55,17 +55,17 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Safety](health-safety-welfare-and-hygiene/safety.md)
 - [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
 
-## Terms of employment, information and procedures
-- [Moonlighting](terms-of-employment-information-and-procedures/moonlighting.md)
-- [Time off](terms-of-employment-information-and-procedures/time-off.md)
-- [Maternity/paternity leave](terms-of-employment-information-and-procedures/maternity-paternity-leave.md)
-- [Parental leave](terms-of-employment-information-and-procedures/parental-leave.md)
-- [Time off for dependants](terms-of-employment-information-and-procedures/time-off-for-dependants.md)
-- [Bereavement leave](terms-of-employment-information-and-procedures/bereavement-leave.md)
-- [Travel expenses](terms-of-employment-information-and-procedures/travel-expenses.md)
-- [Car insurance](terms-of-employment-information-and-procedures/car-insurance.md)
-- [Fines](terms-of-employment-information-and-procedures/fines.md)
-- [Driving licence](terms-of-employment-information-and-procedures/driving-licence.md)
+## Procedures
+- [Moonlighting](procedures/moonlighting.md)
+- [Time off](procedures/time-off.md)
+- [Maternity/paternity leave](procedures/maternity-paternity-leave.md)
+- [Parental leave](procedures/parental-leave.md)
+- [Time off for dependants](procedures/time-off-for-dependants.md)
+- [Bereavement leave](procedures/bereavement-leave.md)
+- [Travel expenses](procedures/travel-expenses.md)
+- [Car insurance](procedures/car-insurance.md)
+- [Fines](procedures/fines.md)
+- [Driving licence](procedures/driving-licence.md)
 
 ## Whistle-blowing
 - [Whistle-blowing policy](whistle-blowing/whistle-blowing-policy.md)
