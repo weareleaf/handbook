@@ -1,0 +1,3 @@
+# Travel expenses
+
+While we're first and foremost a remote company, there will be times when we need to travel to a client. As long as you're not hiring out private Limos, we'll make sure we cover any travel costs incurred. If it's the bus, train, or a taxi, keep hold of the receipts. If you use your own car, simply email us with the number of miles driven, and we'll reimburse you in accordance with the <a href="https://www.gov.uk/government/publications/rates-and-allowances-travel-mileage-and-fuel-allowances/travel-mileage-and-fuel-rates-and-allowances" rel="noopener noreferrer" target="_blank">Government mileage and fuel rates and allowances</a>.

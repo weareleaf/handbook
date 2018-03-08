@@ -25,8 +25,8 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Shortage of work](salaries/shortage-of-work.md)
 - [Stakeholder pensions](salaries/stakeholder-pensions.md)
 
-## Holiday entitlement
-- [Annual holidays](holiday-entitlement/annual-holidays.md)
+## Vacations and Holidays
+- [Annual holidays](vacations-and-holidays/annual-holidays.md)
 
 ## Sickness and injury
 - [General](sickness-and-injury/general.md)
@@ -56,8 +56,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
 
 ## Terms of employment, information and procedures
-- [Changes in personal details](terms-of-employment-information-and-procedures/changes-in-personal-details.md)
-- [Other employment](terms-of-employment-information-and-procedures/other-employment.md)
+- [Moonlighting](terms-of-employment-information-and-procedures/moonlighting.md)
 - [Time off](terms-of-employment-information-and-procedures/time-off.md)
 - [Maternity/paternity leave](terms-of-employment-information-and-procedures/maternity-paternity-leave.md)
 - [Parental leave](terms-of-employment-information-and-procedures/parental-leave.md)
