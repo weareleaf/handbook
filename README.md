@@ -15,6 +15,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Performance review](joining-leaf/performance-review.md)
 - [Working hours](joining-leaf/working-hours.md)
 - [Mobility](joining-leaf/mobility.md)
+- [Dress code](joining-leaf/dress-code.md)
 
 ## Day-to-day tasks
 - [Internal communications](day-to-day-tasks/internal-communications.md)
@@ -47,10 +48,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Email and Internet policy](safeguards/email-and-internet-policy.md)
 - [Social networking](safeguards/social-networking.md)
 
-## Standards
-- [Wastage](standards/wastage.md)
-- [Dress code](standards/dress-code.md)
-
 ## Health, safety, and welfare
 - [Safety](health-safety-welfare-and-hygiene/safety.md)
 - [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
@@ -63,9 +60,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Time off for dependants](procedures/time-off-for-dependants.md)
 - [Bereavement leave](procedures/bereavement-leave.md)
 - [Travel expenses](procedures/travel-expenses.md)
-- [Car insurance](procedures/car-insurance.md)
 - [Fines](procedures/fines.md)
-- [Driving licence](procedures/driving-licence.md)
 
 ## Whistle-blowing
 - [Whistle-blowing policy](whistle-blowing/whistle-blowing-policy.md)
