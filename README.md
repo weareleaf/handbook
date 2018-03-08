@@ -46,8 +46,8 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Social networking](safeguards/social-networking.md)
 
 ## Health, safety, and welfare
-- [Safety](health-safety-welfare-and-hygiene/safety.md)
-- [Alcohol and drugs](health-safety-welfare-and-hygiene/alcohol-and-drugs.md)
+- [Safety](health-safety-and-welfare/safety.md)
+- [Alcohol and drugs](health-safety-and-welfare/alcohol-and-drugs.md)
 
 ## Procedures
 - [Moonlighting](procedures/moonlighting.md)
