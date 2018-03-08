@@ -24,7 +24,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 ## Salaries
 - [Administration](salaries/administration.md)
 - [Shortage of work](salaries/shortage-of-work.md)
-- [Stakeholder pensions](salaries/stakeholder-pensions.md)
+- [Stakeholder pensions](salaries/pensions.md)
 
 ## Vacations and Holidays
 - [Annual holidays](vacations-and-holidays/annual-holidays.md)
@@ -43,8 +43,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Company property and copyright](safeguards/company-property-and-copyright.md)
 - [Statements to the media](safeguards/statements-to-the-media.md)
 - [Inventions and discoveries](safeguards/inventions-and-discoveries.md)
-- [Virus protection procedures](safeguards/virus-protection-procedures.md)
-- [Use of computer equipment](safeguards/use-of-computer-equipment.md)
 - [Email and Internet policy](safeguards/email-and-internet-policy.md)
 - [Social networking](safeguards/social-networking.md)
 
