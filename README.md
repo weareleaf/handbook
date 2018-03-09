@@ -28,14 +28,6 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 ## Vacations and Holidays
 - [Annual holidays](vacations-and-holidays/annual-holidays.md)
 
-## Sickness and injury
-- [General](sickness-and-injury/general.md)
-- [Notification of incapacity to work](sickness-and-injury/notification-of-incapacity-to-work.md)
-- [Evidence of incapacity](sickness-and-injury/evidence-of-incapacity.md)
-- [Payments](sickness-and-injury/payments.md)
-- [Return to work](sickness-and-injury/return-to-work.md)
-- [Self-certification absence](sickness-and-injury/self-certification-absence.md)
-
 ## Safeguards
 - [Confidentiality](safeguards/confidentiality.md)
 - [Intellectual property](safeguards/intellectual-property.md)
@@ -50,6 +42,7 @@ As the organisation grows, we'll make occasional amendments to the Handbook.
 - [Alcohol and drugs](health-safety-and-welfare/alcohol-and-drugs.md)
 
 ## Procedures
+- [Sickness and injury](procedures/sickness-and-injury.md)
 - [Moonlighting](procedures/moonlighting.md)
 - [Time off](procedures/time-off.md)
 - [Maternity/paternity leave](procedures/maternity-paternity-leave.md)

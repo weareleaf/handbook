@@ -1,8 +1,0 @@
-# Payments
-
-1. You are entitled to statutory sick pay (SSP) if you are absent for four or more consecutive days because of sickness or injury provided you meet the statutory qualifying conditions. SSP is treated like wages and is subject to normal deductions.
-2. Qualifying days are the only days for which you are entitled to SSP. These days are normally your working days unless otherwise notified to you. The first three qualifying days of absence are waiting days for which SSP is not payable. Where a second or subsequent period of incapacity (of four days or more) occurs within 56 days of a previous period of incapacity, waiting days are not served again.
-3. Any contractual sickness/injury payments are shown in your individual Statement of Main Terms of Employment.
-4. Any days of contractual sickness/injury payments which qualify for SSP will be offset against SSP on a day-to-day basis. A deduction will be made for any other state benefits received if you are excluded or transferred from SSP.
-5. If you are entitled to any payments in excess of SSP and your entitlement expires, full or part payment may be allowed at our discretion where it is considered that there are special circumstances warranting it.
-6. Where the circumstances of your incapacity are such that you receive or are awarded any sum by way of compensation or damages in respect of the incapacity from a third party, then any payments which we may have made to you because of the absence (including SSP) shall be repaid by you to us up to an amount not exceeding the amount of the compensation or damages paid by the third party and up to, but not exceeding, any amount paid by us.
