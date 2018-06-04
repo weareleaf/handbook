@@ -21,7 +21,7 @@ The performance review is always a face-to-face meeting, and will be with your m
 How are you feeling about yourself and your work? Have things been easy or hard? Have you learned a lot or not? Are there any non-work related issues you'd like to discuss? 
 
 ### What have I been doing?
-Just some brief headlines on things you've been working on, more detailed than just a list of client or project names, but doesn't need to detail every little change. These just provide some reference points for discussion.
+Just some brief headlines on things you've been working on, more detailed than just a list of client or project names, but doesn't need to detail every little change. If you had some goals set in your previous review, how have you progressed on against those? These just provide some reference points for discussion.
 
 ### What's been good?
 What have you enjoyed about your job? This could be anything.
