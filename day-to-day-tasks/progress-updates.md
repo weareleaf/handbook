@@ -26,6 +26,5 @@ The progress update should cover:
  - Any questions you have
  - Any relevant links/screenshots or other useful info
  - Your next steps
- - 
  
 The progress update shouldn't involve a lot of writing, and doesn't need to be especially formal. The goal is to build up a clear log of progress in a few sentences, rather than waste time writing loads every afternoon.
