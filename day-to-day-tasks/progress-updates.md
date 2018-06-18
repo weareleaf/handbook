@@ -1,7 +1,7 @@
 # Progress updates
 
 ## Why progress updates
-As a growing remote software development company, it's becoming common for those those responsible for managing a client to not have direct involvement on that client's project day to day. Progress updates help to keep everyone who needs to be involved in the loop enough so they can:
+As a growing remote software development company, it's becoming common for those those responsible for managing a client to not have direct involvement on the project's development. Progress updates help to keep everyone who needs to be involved in the loop enough so they can:
 
  - Communicate updates back to the client
  - Deal with out of the blue questions from the client
