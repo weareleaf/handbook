@@ -1,7 +1,7 @@
 # Progress updates
 
 ## Why progress updates
-As a growing remote software development company, it's becoming common for those those responsible for managing a client to not have direct involvement on the project's development. Progress updates help to keep everyone who needs to be involved in the loop enough so they can:
+As a growing remote software development company, it's becoming common for those responsible for managing a client to not have direct involvement on the project's development. Progress updates help to keep everyone who needs to be involved in the loop enough so they can:
 
  - Communicate updates back to the client
  - Deal with out of the blue questions from the client
@@ -21,9 +21,11 @@ Progress updates are typically best given via Basecamp's "Check-ins" feature. If
 The progress update should cover:
 
  - What's changed
- - Any blockers or worries you have about the work
+ - Any blockers you've encountered
+ - Any worries you have about the work (including over timelines & estimates)
  - Any questions you have
  - Any relevant links/screenshots or other useful info
  - Your next steps
+ - 
  
 The progress update shouldn't involve a lot of writing, and doesn't need to be especially formal. The goal is to build up a clear log of progress in a few sentences, rather than waste time writing loads every afternoon.
