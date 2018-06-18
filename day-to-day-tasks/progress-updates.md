@@ -16,7 +16,7 @@ Progress updates aren't always necessary, especially if you feel that the accoun
 As a general rule though, if the account manager isn't directly involved in development, and progress has been made on a project on a particular day, we aim to give a short progress update be given at the end of the day.
 
 ## How to give a progress update
-Progress updates are typically best given via Basecamp's "What did you work on today?" feature. If a project isn't managed in Basecamp, an email will do.
+Progress updates are typically best given via Basecamp's "Check-ins" feature. If a project isn't managed in Basecamp, an email will do.
 
 The progress update should cover:
 
