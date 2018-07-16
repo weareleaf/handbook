@@ -1,89 +1,43 @@
 # Handbook
-Welcome to the Leaf Employee Handbook. These guidelines are designed to not only introduce you to our organisation, but to act as a reference throughout your employment.
+Our handbook is where we try to share how we work as a company, and what we expect from each other and our projects, without getting prescriptive, or using patronising legal language.
 
-While it's not the most exciting of tasks, we ask that you study the Handbook upon joining Leaf. In addition to setting out our policies, it also contains information on some of the main employee benefits that may be available to you. If you're unsure of anything in the handbook, please ask Mike or Chris, and they'll be happy to provide clarification.
+If you're reading this for the first time, take note, question things and offer feedback where necessary.
 
-As the organisation grows, we'll make occasional amendments to the Handbook.
 
-## What we stand for
-- [You are Leaf](what-we-stand-for/you-are-leaf.md)
-- [Our values](what-we-stand-for/our-values.md)
+## Projects
 
-## Joining Leaf
-- [Probation period](joining-leaf/probation-period.md)
-- [Roles and responsibilities](joining-leaf/roles-and-responsibilities.md)
-- [Performance review](joining-leaf/performance-review.md)
-- [Working hours](joining-leaf/working-hours.md)
-- [Mobility](joining-leaf/mobility.md)
-- [Dress code](joining-leaf/dress-code.md)
+### Technology
 
-## Day-to-day tasks
-- [Internal communications](day-to-day-tasks/internal-communications.md)
-- [Time tracking](day-to-day-tasks/time-tracking.md)
+We're fairly proficient in Rails, React, React Native, Node and vanilla JavaScript. While we don't have limit ourselves to these, we need to make a case internally for moving dramatically away from them. We need to consider:
 
-## Salaries
-- [Administration](salaries/administration.md)
-- [Pensions](salaries/pensions.md)
+ - **The impact to the project:** Will this make things take longer or cause un-necessary bugs?
+ - **The impact to the team:** Will other team members be able to pick this new technology up and understand it?
+ - **The impact to the client:** Will the client be able to easily find new hires of their own to continue working on this project after we're gone?
 
-## Vacations and Holidays
-- [Annual holidays](vacations-and-holidays/annual-holidays.md)
+As a general guideline, we don't mind experimentation but want to keep its influence limited and get agreement from the team beforehand.
 
-## Safeguards
-- [Confidentiality](safeguards/confidentiality.md)
-- [Intellectual property](safeguards/intellectual-property.md)
-- [Company property and copyright](safeguards/company-property-and-copyright.md)
-- [Statements to the media](safeguards/statements-to-the-media.md)
-- [Inventions and discoveries](safeguards/inventions-and-discoveries.md)
-- [Email and Internet policy](safeguards/email-and-internet-policy.md)
-- [Social networking](safeguards/social-networking.md)
+### Github
+We store all of our client projects in Github. Where we keep `staging` as our base branch. We reserve the `master` branch for live deployments.
 
-## Health, safety, and welfare
-- [Safety](health-safety-and-welfare/safety.md)
-- [Alcohol and drugs](health-safety-and-welfare/alcohol-and-drugs.md)
+With our Heroku setup detailed below in the hosting section, when code is changed in the `staging` branch, it is automatically deployed to the staging environment, and when `staging` (or any other branch) is merged to `master`, the `master` branch is automatically deployed to the production environment.
 
-## Procedures
-- [Sickness and injury](procedures/sickness-and-injury.md)
-- [Moonlighting](procedures/moonlighting.md)
-- [Time off](procedures/time-off.md)
-- [Maternity/paternity leave](procedures/maternity-paternity-leave.md)
-- [Parental leave](procedures/parental-leave.md)
-- [Time off for dependants](procedures/time-off-for-dependants.md)
-- [Bereavement leave](procedures/bereavement-leave.md)
-- [Travel expenses](procedures/travel-expenses.md)
-- [Fines](procedures/fines.md)
 
-## Whistle-blowing
-- [Whistle-blowing policy](whistle-blowing/whistle-blowing-policy.md)
+### Pull requests & code review
+We use pull requests and code reviews for new changes unless we're sure they're not necessary (typo fixes, config changes, etc). These promotes knowledge sharing, improves code quality, and reduces our [bus factor](https://en.wikipedia.org/wiki/Bus_factor).
 
-## Capability procedures
-- [Introduction](capability-procedures/introduction.md)
-- [Job changes and general capability issues](capability-procedures/job-changes-and-general-capability-issues.md)
-- [Personal circumstances and health issues](capability-procedures/personal-circumstances-and-health-issues.md)
-- [Short service staff](capability-procedures/short-service-staff.md)
+**A note on pull request size:** When developing, we should focus on keeping pull requests small. Smaller pull requests where every code change is in persuit of the same goal are much easier to review than huge ones that change all sorts. If you have 5 bugs to fix, raise a pull request for each, but generally just consider how you might chunk work down to make it easier on the reviewer.
 
-## Disciplinary procedures
-- [Introduction](disciplinary-procedures/introduction.md)
-- [Disciplinary rules](disciplinary-procedures/disciplinary-rules.md)
-- [Unsatisfactory conduct and misconduct](disciplinary-procedures/unsatisfactory-conduct-and-misconduct.md)
-- [Serious misconduct](disciplinary-procedures/serious-misconduct.md)
-- [Gross misconduct](disciplinary-procedures/gross-misconduct.md)
-- [Disciplinary procedure](disciplinary-procedures/disciplinary-procedure.md)
-- [Disciplinary authority](disciplinary-procedures/disciplinary-authority.md)
-- [Period of warnings](disciplinary-procedures/period-of-warnings.md)
-- [General notes](disciplinary-procedures/general-notes.md)
+### Continuous integration (CI)
+We set up CI on all of our projects, and on all branches. CI should run all of the project tests and linting, and either block deployments or fail pull requests on Github if it doesn't pass. We should consider using [Heroku CI](https://devcenter.heroku.com/articles/heroku-ci) for this, but failing that, we've had success with [CircleCI](https://circleci.com) in the past.
 
-## Capability/disciplinary appeal
-- [Capability/disciplinary appeals procedure](capability-disciplinary-appeals/capability-disciplinary-appeal-procedure.md)
+### Hosting
+Unless a client has other hosting arranged, we host most of our projects on [Heroku](http://heroku.com), setting up an [Organisation](https://devcenter.heroku.com/articles/org-users-access) for each client, and using a [Pipeline](https://devcenter.heroku.com/articles/pipelines) to create a staging environment linked to the `staging` branch on Github, and a production environment linked to the `master` branch on Github.
 
-## Grievances
-- [Grievance procedure](grievances/grievance-procedure.md)
 
-## Personal harassment procedures
-- [Introduction](personal-harassment-procedures/introduction.md)
-- [Making a complaint](personal-harassment-procedures/making-a-complaint.md)
+## Writing code
 
-## Termination of employment
-- [Resignation](termination-of-employment/resignation.md)
-- [Notice period](termination-of-employment/notice-period.md)
-- [Returning of property](termination-of-employment/returning-of-property.md)
-- [Gardening leave](termination-of-employment/gardening-leave.md)
+### Testing
+We write automated tests on all our software projects, period. We recognise that like other code tests aren't free to write or maintain, so we try to test pragmatically, putting more importance on feature tests that check things work properly from a user perspective and giving the application a wide amount of coverage in the process, than unit tests which check individual lines of code work as intended.
+
+Both have their place, so if in doubt ask and read up on different styles of testing, form an opinion of your own and discuss it with the team.
+
