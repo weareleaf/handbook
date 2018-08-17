@@ -7,3 +7,4 @@ If you're reading this for the first time, take note, question things and offer 
 
 - [The Leaf Handbook (Start Here)](the-leaf-handbook.md)
 - [The Development Handbook](the-development-handbook.md)
+- [The Design Handbook](the-design-handbook.md)
