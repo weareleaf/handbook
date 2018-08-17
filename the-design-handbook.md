@@ -1,4 +1,4 @@
-# [The Design Handbook](#)
+# The Design Handbook
 
 ## Table of Contents
 
