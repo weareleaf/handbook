@@ -1,202 +1,160 @@
-# The Design Handbook
+# The Frontend Handbook
 
 ## Table of Contents
 
 * [Welcome](#welcome)
-* ~~HTML~~
-* [CSS](#CSS)
-* ~~JavaScript~~
-* ~~File structure~~
-* ~~Boilerplates~~
+* [What design means to us](#what-design-means-to-us)
+* [Design tools](#design-tools)
+* [Design process](#design-process)
+* [Our approach](#our-approach)
+* [Design standards](#design-standards)
 
 ## Welcome
 
-Anyone with a little knowhow and determination can make a website, but crafting scalable and manageable design systems are a different kettle of fish. The Frontend Handbook is intended to help align our team, keeping our standards consistent, and mitigating as many common pitfalls as we can.
+Design is a loaded word, meaning very different things to different people, and the Designer's Handbook is intended to help define exactly what we think of as design.
 
-## CSS
+## What design means to us
 
-We use CSS extensively as part of our day-to-day, and while it's easy to pick-up, it can quickly become problematic at scale. We can't change the language or it's pitfalls, but by following our internal conventions for writing CSS, we can work towards creating more maintainable, readable, and scalable systems.
+### Content is everything
 
-### SCSS
+An interface, in any form, is simply a window into the conversation you're attempting to have with your users. Whether you're using words, images, or any other medium to communicate, agonising over the content itself will always, always be the priority.
 
-Preprocessing our CSS helps us create scalable and modular design systems, and we use [Sass][1] (or more specifically SCSS) to extend our powers with nesting, imports, and mixins.
+### Design isn't just for designers
 
-### BEM
+At Leaf, it's important to recognise that design is not simply a skill or service applied solely by a designer. If the output of your work directly impacts the product, you're designing.
 
-Each and every components should follow the [Block Element Modifier (BEM)][2] methodology. BEM is a powerful naming convention, written specifically with reusability and modularity in mind, that helps keep our code readable, robust, and consistent.   
+### Design is purposeful
 
-#### Block
+If you're not solving a problem, you're not designing. Well understood design problems combine objectives, business considerations, and technical, time and resource constraints. If you're unsure of the problem you're solving, it's highly likely that you haven't got all of the answers yet.
 
-A block is the outermost part of a component, providing context and scope.
+## Design tools
 
-#### Element
+You're encouraged to use the tools that enable you to get ideas out of your head and in front of people most efficiently, but there are some tools that we either recommend or require you to use so that we can all play nicely together.
 
-Any children within a block are known an elements. Elements are prefixed with two underscores `__`
+### Sketch
 
-#### Modifier
+[Sketch][1] is our primary design tool of choice. It's affordable, well documented, and has a big community behind it. It's also great at producing anything from low-fi wireframes to hi-res mockups.
 
-Modifiers are used to manipulate the default state of a block. Modifiers are prefixed with two hyphens `--`
+### Photoshop
 
-```
-// Block
-.alert { ... }
+While [Photoshop][2] is no longer the industries de facto product design tool, it's still King for any kind of photo manipulation or batch-changing of imagery.
 
-// Element
-.alert__heading { ... }
-.alert__message { ... }
+### Marvel
 
-// Modifier
-.alert--success { ... }
-.alert--warning { ... }
-```
+Selling a vision with words alone can be tough, but being able to share something tangible can make all the difference. [Marvel][3] quickly turns static designs into interactive prototypes, ensuring a shared understanding among stakeholders.
 
-### Property order
+## Design process
 
-CSS Properties should always be written in alphabetical order, top to bottom. Many developers favour [ordering properties into predetermined groups][3], but having the `height` and `width` properties a few lines closer hardly seems worth the excess congestive load.
+While we're not big on overly proscribed processes, our approach to solving design problems tend to follow a similar pattern.
 
-Alphabetic ordering instantly proscribes where a property should be added, and allows us to scan for the presence of a property in an existing component.
+### Content
 
-### Nesting 
+When people think of design, they rarely think of words. In reality, the words are by far the most important part of the design process; that purple gradient won't save you if users aren't finding the right words at the right time.
 
-Try not to nest more than 3 levels deep. If you find yourself going further, it's often an indication that the component in question may be in need of a restructure. 
+For content-heavy projects, we'll usually start our design work in [Google Docs][4]. Content should always be written with an awareness of not only who it's for, but how they will be consuming it; context, as usual, is everything.
 
-```
-// Don't
-.alert {
-	
-	&__header {
-	
-		&__title {
-		
-			&__icon {
-				
-				&--inverted {
-				
-				}
-			}
-		}
-	}
-}
-```
+Get in the habit of indulging in content rather than drop shadows. Write, read, and re-write; spending time to get the content right will make every additional step that much easier.
 
-### Colors
 
-When denoting color using hexadecimal notation, use all lowercase letters. Both three-digit and six-digit hexadecimal notations are absolutely fine; if you can specify a color using three-digit notation, you should.
+### Sketches, wireframes, and prototypes
 
-```
-// Do
-color: #ccc;
-color: #eff0f2;
+With the content well shaped, a low-fidelity approach is often the next natural step. At this stage, you'll be exploring various ideas, considering a number of layouts, and chucking away more of your work than you keep.
 
-// Don't
-color: #333333;
-color: #EEE;
-```
-  
-Note too that when referencing color within the context of CSS, we always use the American spelling, even outside of code itself.
+By focusing our time on the hierarchy and layouts, we minimise our wastage. Sketching, either with pen and paper or digitally, helps us generate (and quickly rule-out) new ideas, while wireframing and prototyping enables us to validate our theories.
 
-#### IDs
+### Visual design
 
-The `ID` attribute is incredibly useful, acting as a scripting hook for JavaScript, providing an association between labels and form elements, and anchoring users to specific parts of a web page. However, `ID`s should never been used as CSS selectors.
+With the foundation solid, we're finally well placed to explore the visual design. At this point, brand guidelines can be added, and typography, colour and form explored for the first time.
 
-IDs carry a higher specificity than classes, causing inevitable pain (often to some other poor soul) when used within a design system.
+When layering the various areas of design in this way, there has to be a degree of flexibility between the phases. After weeks or months of hard work, nobody wants a coloured-in wireframe; adhering to the wireframes is preferable where possible, but you shouldn't feel powerless to make design decisions at this stage.
 
-#### Naming classes
+## Our approach
 
-It sounds ridiculous, but naming things is one of the hardest things you'll encounter in your day-to-day. 
+### Design for everyone
 
-Try and use names that are as succinct as possible, but not to the detriment of clarity. 
+It's easy to craft an interface for an able bodied individual, imagining they're using the same iMac with super-fast broadband as you are, but that's not how the World works. _Anyone_ should be able to enjoy the web, irrespective of their physical, mental, or situational ability to do so.
 
-Consider not only the proposed usage, but the possible usage of the component. Make decisions, especially when naming, that promote reusability and modularity. 
+### What problems are we solving?
 
-Finally, always use hyphens should connect multiple words.
+Time is our primary commodity in every area of the business, and design is no exception.
 
-```
-// Do
-.nav { ... }
-.page-header { ... }
+Always be lead by the actual issue we're collectively tackling; what are we looking to achieve? How best can we use our time budget to solve the problem? We have a finite amount of resource; stay focused on the issues at hand, and tackle them appropriately.
 
-// Don't
-.navigation_bar { ... }
-.pHead { ... }
-```
+### Talk to people
 
-#### Comments
+No one person is ever right all the time, and it's essential we talk to the right people throughout the process. If you're unsure of anything, ask your teammates; a fresh set of eyes can be incredibly valuable.
 
-Comments that refer to selector blocks should be on a separate line immediately before the block to which they refer.
+From an external point-of-view, keep the conversation with stakeholders flowing to make sure we're on track, and wherever possible, ensure actual users involved; they'll know better than anyone if our solution is missing the mark.
 
-### Units
+### Remember who you're designing for
 
-CSS provides us with several units for expressing sizes, and it's important to know when to use each (and which ones to steer clear of altogether).
+Above all else, the actual user is always the most important person. Throughout your work, from the first conversation to the final line code, be mindful of who you users are.
 
-#### Ems
+How are they consuming your work: are they relaxed in an office, or rushing to catch the tube? What does their environment look like? What concerns are they likely to have in this moment? Think deep, and put yourself in their shoes at all times.
 
-Ems are sized relative to the elements within which they're used, and as such, are useful in any instances where we need control over the scale of a specific area.
+### Embrace constraints
 
-A good use-case for `em` is an icon used inside a `button`, where the icon's size should relate to the button's text size.
+Constraints help narrow our field of vision, providing direction to immovable issues by allowing us to focus on the unsolved issues at hand.
 
-#### Rems
+Constraints can sit across any number of areas, from the budget or time allocated to solving an issue, to the structure of content being served from an existing CMS.
 
-Rems are scalable unit, relative to the `html` elements `font-size`. Any scalable sizing that doesn't require an `em` should use `rem`. 
+First, determine if it really is a constraint, or whether outdating or misguided thinking lead us to incorrectly believe as much? If it really is a constraint, embrace and own it.
 
-#### Percentages
+### Design with scale in mind
 
-Percentages are relative to the width and height of a parent element, and are incredible useful when you need to span either some of all of the available space.  
+Relative units, such as `em`s and `rem`s, allow us to use parent elements to manipulate the interface. By creating relationships between elements, design decisions are inherited by child elements, saving us both time and unnecessary lines of cumbersome code.
 
-#### Pixels
+## Design Standards
 
-Pixels are usually best avoided due to their hard-coded, disproportional nature. However, that can be valuable in instances where you may actually want that inflexibility.
+### Optimisation of assets
 
-`Border-width` is a good example of a property you may actually not want its value to change as the interface scales either up or down.
+Just as important as designing for slow and unstable connections is optimising assets at every opportunity. SVG's generated by design software such as Illustrator or Sketch rarely output efficient HTML, though Sketch's output can be improved vastly by installing the [SVGO Compressor plugin][5].
 
-#### Viewport units
+Images should always use the most appropriate file format, and be automatically compressed. Responsive images, where appropriate, should be used to serve only the most appropriate assets for any given situation.
 
-The viewport is the area where the browser renders its content, and both Viewport Width (`vw`) and Viewport Height (`vh`) are relative to the size of the 'browser window'. 
+### Animation
 
-Viewport units are useful when creating full-screen sections, such as login pages, or hero-banners.
+Well considered animations go far beyond visual interest, creating affordances that help the user interpret complex interactions.
 
-#### Unitless
+Before introducing transitions into your work, consider exactly what the animation is bringing to the table; are the benefits worth the additional code and cognitive cost to the user? If the argument in favour is such that you do decide to add them, always use properties and techniques that allow us to achieve 60fps.
 
-Finally, a unitless `line-height` (e.g. `1.4`) is considered best practice, acting as a multiplier of the `font-size` value.
+### Styleguides
 
-```
-// Do
-border-width: 1px;
-font-size: 1.2rem;
-Height: 100vh;
-Line-height: 1.25;
-Padding: 1em;
-width: 100%;
-  
-// Don't
-font-size: 14pt;
-width: 24cm;
-```
+Styleguides and Pattern libraries promote a consistent design language, informing future design decisions for more efficient development process.
 
-#### Component structure
+Well-built digital products are simply a collection of reusable elements, either used in isolation or combined with one another,  to create a user interface.
 
-The ordering of classes should considered when created or updating a component. As the complexity of a component increases, finding specific styles becomes a lot harder.
+Unless you can make a compelling argument for introducing additional variance and complexity to the design system, you should always look to reuse existing styles. That said, the needs of the user are always paramount, and should never be compromised for the benefit of the system or the the engineer.
 
-Rather than simply tagging new styles to the bottom of the file,  considered their importance and order within the component hierarchy.
+### Atomic Design
 
-```
-// Do
-.modal {
-	
-	&__header { ... }
-	&__body { ... }
-	&__footer { ... }
-}
+We use [Brad Frost's Atomic Design][6] methodology to organise our design systems. In biology, collections of particles group together to form an organised system, and Atomic Design adopts the same hierarchical approach to product structure.
 
-// Don't
-.modal {
-	
-	&__header { ... }
-	&__footer { ... }
-	&__body { ... }
-}
-```
+Elements that collectively form a product can be divided into five distinct areas: Atoms, Molecules, Organisms, Templates and Pages.
 
-[1]: https://sass-lang.com/
-[2]: http://getbem.com/
-[3]: https://9elements.com/css-rule-order/
+#### Atoms
+
+The humble atom is the basic building block of any product, and is usually found is various combinations to create more complex artefacts. An atom can be anything that cannot be broken down further, such as headings, inputs, and buttons.
+
+#### Molecules
+
+Molecules are fairly simple collections of atoms, functioning together to form something purposeful. While atoms tend to lack usefulness in isolation, molecules create relationships that provide genuine functionality within the microsystem.
+
+#### Organisms
+
+Organisms are complex collections of atoms, modules, and even other organisms. If a collection of links (atoms) formed the primary navigation (molecule), that along with a logo (atom) would form the header (organism).
+
+#### Templates
+
+A template is a collection of atoms, modules and organisms that create the blueprint of an entire page. Templates are entirely reusable, and focus primarily on the content structure, rather than the content itself.
+
+#### Pages
+
+Finally, we're able to generate actual pages by applying real-World content to our templates. Pages are the most refined piece of the Atomic Design system, and the embodiment of a complex and  considered design system.
+
+[1]: https://www.sketchapp.com
+[2]: https://www.adobe.com/uk/products/photoshop.html
+[3]: https://marvelapp.com
+[4]: https://www.google.com/docs/about
+[5]: https://github.com/BohemianCoding/svgo-compressor
+[6]: http://atomicdesign.bradfrost.com/table-of-contents
