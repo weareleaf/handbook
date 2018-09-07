@@ -1,10 +1,10 @@
-# The Design Handbook
+# The Frontend Handbook
 
 ## Table of Contents
 
 * [Welcome](#welcome)
 * ~~HTML~~
-* [CSS](#CSS)
+* [CSS](#css)
 * ~~JavaScript~~
 * ~~File structure~~
 * ~~Boilerplates~~
@@ -56,22 +56,22 @@ CSS Properties should always be written in alphabetical order, top to bottom. Ma
 
 Alphabetic ordering instantly proscribes where a property should be added, and allows us to scan for the presence of a property in an existing component.
 
-### Nesting 
+### Nesting
 
-Try not to nest more than 3 levels deep. If you find yourself going further, it's often an indication that the component in question may be in need of a restructure. 
+Try not to nest more than 3 levels deep. If you find yourself going further, it's often an indication that the component in question may be in need of a restructure.
 
 ```
 // Don't
 .alert {
-	
+
 	&__header {
-	
+
 		&__title {
-		
+
 			&__icon {
-				
+
 				&--inverted {
-				
+
 				}
 			}
 		}
@@ -92,7 +92,7 @@ color: #eff0f2;
 color: #333333;
 color: #EEE;
 ```
-  
+
 Note too that when referencing color within the context of CSS, we always use the American spelling, even outside of code itself.
 
 #### IDs
@@ -103,11 +103,11 @@ IDs carry a higher specificity than classes, causing inevitable pain (often to s
 
 #### Naming classes
 
-It sounds ridiculous, but naming things is one of the hardest things you'll encounter in your day-to-day. 
+It sounds ridiculous, but naming things is one of the hardest things you'll encounter in your day-to-day.
 
-Try and use names that are as succinct as possible, but not to the detriment of clarity. 
+Try and use names that are as succinct as possible, but not to the detriment of clarity.
 
-Consider not only the proposed usage, but the possible usage of the component. Make decisions, especially when naming, that promote reusability and modularity. 
+Consider not only the proposed usage, but the possible usage of the component. Make decisions, especially when naming, that promote reusability and modularity.
 
 Finally, always use hyphens should connect multiple words.
 
@@ -137,7 +137,7 @@ A good use-case for `em` is an icon used inside a `button`, where the icon's siz
 
 #### Rems
 
-Rems are scalable unit, relative to the `html` elements `font-size`. Any scalable sizing that doesn't require an `em` should use `rem`. 
+Rems are scalable unit, relative to the `html` elements `font-size`. Any scalable sizing that doesn't require an `em` should use `rem`.
 
 #### Percentages
 
@@ -151,7 +151,7 @@ Pixels are usually best avoided due to their hard-coded, disproportional nature.
 
 #### Viewport units
 
-The viewport is the area where the browser renders its content, and both Viewport Width (`vw`) and Viewport Height (`vh`) are relative to the size of the 'browser window'. 
+The viewport is the area where the browser renders its content, and both Viewport Width (`vw`) and Viewport Height (`vh`) are relative to the size of the 'browser window'.
 
 Viewport units are useful when creating full-screen sections, such as login pages, or hero-banners.
 
@@ -167,7 +167,7 @@ Height: 100vh;
 Line-height: 1.25;
 Padding: 1em;
 width: 100%;
-  
+
 // Don't
 font-size: 14pt;
 width: 24cm;
@@ -182,7 +182,7 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
 ```
 // Do
 .modal {
-	
+
 	&__header { ... }
 	&__body { ... }
 	&__footer { ... }
@@ -190,7 +190,7 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
 
 // Don't
 .modal {
-	
+
 	&__header { ... }
 	&__footer { ... }
 	&__body { ... }
