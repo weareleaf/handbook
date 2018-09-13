@@ -21,6 +21,50 @@ We use CSS extensively as part of our day-to-day, and while it's easy to pick-up
 
 Preprocessing our CSS helps us create scalable and modular design systems, and we use [Sass][1] (or more specifically SCSS) to extend our powers with nesting, imports, and mixins.
 
+### General principles 
+
+A consistent codebase feels like a clean and familiar codebase. By creating a standard set of guidelines on how we structure and format our CSS, we allow ourselves to move between projects without having to learn a new set of rules each time. 
+
+- Follow agreed and existing conventions religiously. 
+- Don't prematurely optimise; strive for clarity and readability. 
+- Use 2 spaces for code indentation, rather than tabs.
+- Keep line-lengths to 80 characters in your code editor.
+- Place comments on the line above their intended context.
+
+#### Format
+
+- Place each selector on its own line.
+- Include a space between the selector and the opening brace.
+- Include a space, after the colon, between a property and value.
+- Use single quotes, rather than double or no quotes
+- Omit the unit when specifying a value of 0
+- Omit leading 0's when writing fractions
+- Include a space after each comma in comma-separated value.
+
+```
+.input,
+.input[type='text'],
+.input[type='email'] {
+	background: linear-gradient(#eee, rgba(255, 255, 255, .25));
+	border: solid rgba(0, 0, 0, .75);
+	margin: 0;
+}
+```
+
+##### SCSS
+- Place `@extend` statements at the start of a declaration. 
+- Place `@include` statements after any `@extend` statements.
+- Only extend placeholder selectors.
+
+```
+.label {
+	@extend %h5;
+	@include clearfix;
+	@include padding-vertical(.5em);
+	@include truncate;
+}
+```
+
 ### BEM
 
 Each and every components should follow the [Block Element Modifier (BEM)][2] methodology. BEM is a powerful naming convention, written specifically with reusability and modularity in mind, that helps keep our code readable, robust, and consistent.   
