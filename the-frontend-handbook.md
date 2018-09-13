@@ -45,9 +45,9 @@ A consistent codebase feels like a clean and familiar codebase. By creating a st
 .input,
 .input[type='text'],
 .input[type='email'] {
-	background: linear-gradient(#eee, rgba(255, 255, 255, .25));
-	border: solid rgba(0, 0, 0, .75);
-	margin: 0;
+  background: linear-gradient(#eee, rgba(255, 255, 255, .25));
+  border: solid rgba(0, 0, 0, .75);
+  margin: 0;
 }
 ```
 
@@ -58,10 +58,10 @@ A consistent codebase feels like a clean and familiar codebase. By creating a st
 
 ```scss
 .label {
-	@extend %h5;
-	@include clearfix;
-	@include padding-vertical(.5em);
-	@include truncate;
+  @extend %h5;
+  @include clearfix;
+  @include padding-vertical(.5em);
+  @include truncate;
 }
 ```
 
