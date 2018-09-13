@@ -225,7 +225,7 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
 
   &__header { ... }
   &__body { ... }
-  &__footer { ... }
+	&__footer { ... }
 }
 
 // Don't
