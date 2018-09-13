@@ -41,7 +41,7 @@ A consistent codebase feels like a clean and familiar codebase. By creating a st
 - Omit leading 0's when writing fractions
 - Include a space after each comma in comma-separated value.
 
-```
+```scss
 .input,
 .input[type='text'],
 .input[type='email'] {
@@ -56,7 +56,7 @@ A consistent codebase feels like a clean and familiar codebase. By creating a st
 - Place `@include` statements after any `@extend` statements.
 - Only extend placeholder selectors.
 
-```
+```scss
 .label {
 	@extend %h5;
 	@include clearfix;
