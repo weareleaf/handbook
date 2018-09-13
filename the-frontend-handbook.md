@@ -81,7 +81,7 @@ Any children within a block are known an elements. Elements are prefixed with tw
 
 Modifiers are used to manipulate the default state of a block. Modifiers are prefixed with two hyphens `--`
 
-```
+```scss
 // Block
 .alert { ... }
 
@@ -104,22 +104,22 @@ Alphabetic ordering instantly proscribes where a property should be added, and a
 
 Try not to nest more than 3 levels deep. If you find yourself going further, it's often an indication that the component in question may be in need of a restructure.
 
-```
+```scss
 // Don't
 .alert {
 
-	&__header {
+  &__header {
 
-		&__title {
+    &__title {
 
-			&__icon {
+      &__icon {
 
-				&--inverted {
+        &--inverted {
 
-				}
-			}
-		}
-	}
+        }
+      }
+    }
+  }
 }
 ```
 
@@ -127,7 +127,7 @@ Try not to nest more than 3 levels deep. If you find yourself going further, it'
 
 When denoting color using hexadecimal notation, use all lowercase letters. Both three-digit and six-digit hexadecimal notations are absolutely fine; if you can specify a color using three-digit notation, you should.
 
-```
+```scss
 // Do
 color: #ccc;
 color: #eff0f2;
@@ -155,7 +155,7 @@ Consider not only the proposed usage, but the possible usage of the component. M
 
 Finally, always use hyphens should connect multiple words.
 
-```
+```scss
 // Do
 .nav { ... }
 .page-header { ... }
@@ -203,7 +203,7 @@ Viewport units are useful when creating full-screen sections, such as login page
 
 Finally, a unitless `line-height` (e.g. `1.4`) is considered best practice, acting as a multiplier of the `font-size` value.
 
-```
+```scss
 // Do
 border-width: 1px;
 font-size: 1.2rem;
@@ -223,21 +223,21 @@ The ordering of classes should considered when created or updating a component. 
 
 Rather than simply tagging new styles to the bottom of the file,  considered their importance and order within the component hierarchy.
 
-```
+```scss
 // Do
 .modal {
 
-	&__header { ... }
-	&__body { ... }
-	&__footer { ... }
+  &__header { ... }
+  &__body { ... }
+  &__footer { ... }
 }
 
 // Don't
 .modal {
 
-	&__header { ... }
-	&__footer { ... }
-	&__body { ... }
+  &__header { ... }
+  &__footer { ... }
+  &__body { ... }
 }
 ```
 
