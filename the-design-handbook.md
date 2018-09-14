@@ -1,4 +1,4 @@
-# The Frontend Handbook
+# The Design Handbook
 
 ## Table of Contents
 
