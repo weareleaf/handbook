@@ -292,9 +292,9 @@ Finally, a unitless `line-height` (e.g. `1.4`) is considered best practice, acti
 // Do
 border-width: 1px;
 font-size: 1.2rem;
-Height: 100vh;
-Line-height: 1.25;
-Padding: 1em;
+height: 100vh;
+line-height: 1.25;
+padding: 1em;
 width: 100%;
 
 // Don't
