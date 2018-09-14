@@ -31,7 +31,7 @@ Explain.
 - If you open an element, close it too
 
 ```html
-// Do
+<!-- Do -->
 <figure>
   <img src="images/dog.gif" alt="Dancing dog">
 </figure>
@@ -42,7 +42,7 @@ Explain.
   <li>Thai red chillies</li>
 </ul>
 
-// Don't
+<!-- Don't -->
 <figure>
 <img src='images/dog.gif' alt='Dancing dog' />
 </figure>
