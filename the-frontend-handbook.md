@@ -19,7 +19,7 @@ We use HTML to structure everything we do. It's an incredibly forgiving language
 
 ### Pug
   
-We need additional firepower, Pug (formerly Jade) is our go-to HTML preprocessor. It's JavaScript based template engine which not only removed markup redundancies, but offers-up a whole bunch of functionality, including conditionals, mixins, and includes.
+We need additional firepower, [Pug][1] (formerly Jade) is our go-to HTML preprocessor. It's JavaScript based template engine which not only removed markup redundancies, but offers-up a whole bunch of functionality, including conditionals, mixins, and includes.
 
 ### General principles
 Explain.
@@ -33,13 +33,13 @@ Explain.
 ```html
 // Do
 <figure>
-	<img src="images/dog.gif" alt="Dancing dog">
+  <img src="images/dog.gif" alt="Dancing dog">
 </figure>
 
 <ul>
-	<li>Dog food</li>
-	<li>Quinoa</li>
-	<li>Thai red chillies</li>
+  <li>Dog food</li>
+  <li>Quinoa</li>
+  <li>Thai red chillies</li>
 </ul>
 
 // Don't
@@ -48,15 +48,15 @@ Explain.
 </figure>
 
 <ul>
-		<li>Dog food
-		<li>Quinoa
-		<li>Thai red chillies
+  <li>Dog food
+  <li>Quinoa
+  <li>Thai red chillies
 </ul>
 ```
 
 #### Format
 
-- Help speech synthesis tools by specifying the page's [language][1] using the `lang` attribute.
+- Help speech synthesis tools by specifying the page's language using the `lang` attribute.
 - Instruct IE to use the latest supported mode with edge mode.
 - Set character encoding to be 'UTF-8'.
 - For any responsive site, set the responsive meta tag.
@@ -67,19 +67,19 @@ Explain.
 ```html
 <!DOCTYPE html>
 <html lang="en-gb">
-	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 		
-		<title>Leaf Software Ltd</title>
+    <title>Leaf Software Ltd</title>
 		
-		<link href="style.css" rel="stylesheet">
-	</head>
+    <link href="style.css" rel="stylesheet">
+  </head>
 	
-	<body>
-		<input type="submit" disabled>
-	</body>
+  <body>
+    <input type="submit" disabled>
+  </body>
 </html>
 ```
 
@@ -108,7 +108,7 @@ We use CSS extensively as part of our day-to-day, and while it's easy to pick-up
 
 ### SCSS
 
-Preprocessing our CSS helps us create scalable and modular design systems, and we use [Sass][1] (or more specifically SCSS) to extend our powers with nesting, imports, and mixins.
+Preprocessing our CSS helps us create scalable and modular design systems, and we use [Sass][2] (or more specifically SCSS) to extend our powers with nesting, imports, and mixins.
 
 ### General principles
 
@@ -156,7 +156,7 @@ A consistent codebase feels like a clean and familiar codebase. By creating a st
 
 ### BEM
 
-Each and every components should follow the [Block Element Modifier (BEM)][2] methodology. BEM is a powerful naming convention, written specifically with reusability and modularity in mind, that helps keep our code readable, robust, and consistent.   
+Each and every components should follow the [Block Element Modifier (BEM)][3] methodology. BEM is a powerful naming convention, written specifically with reusability and modularity in mind, that helps keep our code readable, robust, and consistent.   
 
 #### Block
 
@@ -185,7 +185,7 @@ Modifiers are used to manipulate the default state of a block. Modifiers are pre
 
 ### Property order
 
-CSS Properties should always be written in alphabetical order, top to bottom. Many developers favour [ordering properties into predetermined groups][3], but having the `height` and `width` properties a few lines closer hardly seems worth the excess congestive load.
+CSS Properties should always be written in alphabetical order, top to bottom. Many developers favour [ordering properties into predetermined groups][4], but having the `height` and `width` properties a few lines closer hardly seems worth the excess congestive load.
 
 Alphabetic ordering instantly proscribes where a property should be added, and allows us to scan for the presence of a property in an existing component.
 
@@ -314,7 +314,7 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
 
   &__header { ... }
   &__body { ... }
-	&__footer { ... }
+  &__footer { ... }
 }
 
 // Don't
@@ -326,8 +326,7 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
 }
 ```
 
-https://www.sitepoint.com/iso-2-letter-language-codes/
-
-[1]: https://sass-lang.com/
-[2]: http://getbem.com/
-[3]: https://9elements.com/css-rule-order/
+[1]: https://pugjs.org/
+[2]: https://sass-lang.com/
+[3]: http://getbem.com/
+[4]: https://9elements.com/css-rule-order/
