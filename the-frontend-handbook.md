@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Welcome](#welcome)
-* ~~HTML~~
+* [HTML](#html)
 * [CSS](#css)
 * ~~JavaScript~~
 * ~~File structure~~
@@ -12,6 +12,95 @@
 ## Welcome
 
 Anyone with a little knowhow and determination can make a website, but crafting scalable and manageable design systems are a different kettle of fish. The Frontend Handbook is intended to help align our team, keeping our standards consistent, and mitigating as many common pitfalls as we can.
+
+## HTML
+
+We use HTML to structure everything we do. It's an incredibly forgiving language, which means it's important to apply a good dose of discipline when writing it. Good HTML is semantic; great HTML is inclusive.  
+
+### Pug
+  
+We need additional firepower, Pug (formerly Jade) is our go-to HTML preprocessor. It's JavaScript based template engine which not only removed markup redundancies, but offers-up a whole bunch of functionality, including conditionals, mixins, and includes.
+
+### General principles
+Explain.
+
+- Use soft tabs with two spaces
+- Nested elements should be indented once
+- Use "double quotes" around any attribute
+- Don't include a trailing `/` on self-closing elements 
+- If you open an element, close it too
+
+```html
+// Do
+<figure>
+	<img src="images/dog.gif" alt="Dancing dog">
+</figure>
+
+<ul>
+	<li>Dog food</li>
+	<li>Quinoa</li>
+	<li>Thai red chillies</li>
+</ul>
+
+// Don't
+<figure>
+<img src='images/dog.gif' alt='Dancing dog' />
+</figure>
+
+<ul>
+		<li>Dog food
+		<li>Quinoa
+		<li>Thai red chillies
+</ul>
+```
+
+#### Format
+
+- Help speech synthesis tools by specifying the page's [language][1] using the `lang` attribute.
+- Instruct IE to use the latest supported mode with edge mode.
+- Set character encoding to be 'UTF-8'.
+- For any responsive site, set the responsive meta tag.
+- Group `meta` and `link` elements within the document `head`.
+- Omit the `type` attribute from `link` and `script` elements.
+- For boolean attributes, favour the `checked` format over `checked=“checked"`.
+
+```html
+<!DOCTYPE html>
+<html lang="en-gb">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+		
+		<title>Leaf Software Ltd</title>
+		
+		<link href="style.css" rel="stylesheet">
+	</head>
+	
+	<body>
+		<input type="submit" disabled>
+	</body>
+</html>
+```
+
+### Attribute order
+
+HTML attributes should be presented in a specific order, making the markup more consistent and easier to read. Identifying attributes should come first, followed by descriptors, and finally, accessibility-related attributes. 
+
+1. class
+2. id
+3. name
+4. data-*
+5. src
+6. for
+7. rel
+8. type
+9. href
+10. value
+11. title
+12. alt
+13. role
+14. aria-*
 
 ## CSS
 
@@ -25,9 +114,9 @@ Preprocessing our CSS helps us create scalable and modular design systems, and w
 
 A consistent codebase feels like a clean and familiar codebase. By creating a standard set of guidelines on how we structure and format our CSS, we allow ourselves to move between projects without having to learn a new set of rules each time.
 
+- Use soft tabs with two spaces
 - Follow agreed and existing conventions religiously.
 - Don't prematurely optimise; strive for clarity and readability.
-- Use 2 spaces for code indentation, rather than tabs.
 - Keep line-lengths to 80 characters in your code editor.
 - Place comments on the line above their intended context.
 
@@ -236,6 +325,8 @@ Rather than simply tagging new styles to the bottom of the file,  considered the
   &__body { ... }
 }
 ```
+
+https://www.sitepoint.com/iso-2-letter-language-codes/
 
 [1]: https://sass-lang.com/
 [2]: http://getbem.com/
