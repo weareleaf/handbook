@@ -31,7 +31,7 @@ Being such a small studio, there may be times you're asked to muck in with jobs 
 
 ### Performance Reviews
 
-Performance reviews are an opportunity for us to collectively take a look at your past, and your future, with Leaf. They're a 6-monthly meeting in which we collectively talk about what you've been doing, where we collectively think your strengths lie and where we collectively think your development opportunities are.
+Performance reviews are a formal opportunity for us to collectively take a look at your past, and your future, with Leaf. They're a 6-monthly meeting in which we collectively talk about what you've been doing, where we collectively think your strengths lie and where we collectively think your development opportunities are.
 
 #### Your plan
 The outcome of your performance review should be joint agreement on a plan for the next 6 months for your own personal development, that aligns with where Leaf is headed as a business. This plan is comprised of a few (typically 1 to 4) **6-month goals**, which can either be building upon a strength, improving on a development opportunity, or even introducing something completely new.
@@ -73,6 +73,18 @@ What do you think you're doing well, either through hard work and focus or natur
 Where do you think you could develop yourself professionally to improve your skill-set and performance? Again, this could be anything.
 
 Lastly, you may also want to consider some ideas for goals, although these will be worked on properly together with your manager during the meeting.
+
+### One on ones (1:1s)
+1:1s are a 30 minute informal call every 2 weeks between you and your manager. They provide an opportunity to find out how you are, and give even the smallest grievance a chance to be heard. Use your 1:1 as an opportunity to:
+
+- Discuss how you're feeling.
+- Discuss how your work has been going.
+- Surface any specific problems or challenges.
+- Highlight any triumphs or learnings.
+- Check your progress against your 6 monthly performance goals.
+- Talk about anything else related to you and your role at Leaf.
+
+The purpose of the 1:1 is to make sure nothing important goes unaddressed or unnoticed so you're as satisfied with your work as possible. You needn't do any significant prepartion for your 1:1, but do come with things to talk about even if it's just an "all clear" on the above bullet points.
 
 ### Working hours
 
