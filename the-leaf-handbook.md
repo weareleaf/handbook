@@ -7,7 +7,8 @@
 - [What We Do](#what-we-do)
 - [How We Think](#how-we-think)
 - [How We Work](#how-we-work)
-- [Time tracking](#time-tracking)
+- [Time Tracking](#time-tracking)
+- [Career Progression](#career-progression)
 
 ## Welcome
 
@@ -28,63 +29,6 @@ During this period, both parties have the right to end the arrangement, which if
 We're not huge on complicated or overly prescriptive job descriptions, but we'll ensure you have a good handle on the roles you're going to be asked to perform regularly.
 
 Being such a small studio, there may be times you're asked to muck in with jobs that fall outside of this remit; we see this variance as a positive, allowing for fresh perspectives and new skills to be formed.
-
-### Performance Reviews
-
-Performance reviews are a formal opportunity for us to collectively take a look at your past, and your future, with Leaf. They're a 6-monthly meeting in which we collectively talk about what you've been doing, where we collectively think your strengths lie and where we collectively think your development opportunities are.
-
-#### Your plan
-The outcome of your performance review should be joint agreement on a plan for the next 6 months for your own personal development, that aligns with where Leaf is headed as a business. This plan is comprised of a few (typically 1 to 4) **6-month goals**, which can either be building upon a strength, improving on a development opportunity, or even introducing something completely new.
-
-Your 6-month goals should be:
-
-- **Aligned** to your personal development interests, and Leaf's interests as a business.
-- **Achievable** within 6 months, or before your next review. Don't take on too much.
-- **Measurable**, either tangibly or anecdotally. Either way there should be evidence to support your achievement at your next review.
-
-This all sounds very serious, but don't worry, it's very much your plan. If a goal doesn't work out for you, we can just talk through the reasons why at your next review and course-correct from there.
-
-#### The format
-
-The performance review is always a face-to-face meeting, and will be with your manager; either Chris or Mike. In the meeting, you and your manager should come prepared with answers to the following questions:
-
-##### How have the past 6 months been generally?
-
-How are you feeling about yourself and your work? Have things been easy or hard? Have you learned a lot or not? Are there any non-work related issues you'd like to discuss?
-
-##### What have I been doing?
-
-Just some brief headlines on things you've been working on, more detailed than just a list of client or project names, but doesn't need to detail every little change. If you had some goals set in your previous review, how have you progressed on against those? These just provide some reference points for discussion.
-
-##### What's been good?
-
-What have you enjoyed about your job? This could be anything.
-
-##### What could have been better?
-
-What aspects of your job haven't you enjoyed so much. Again, it could be anything.
-
-##### Where do my strengths lie?
-
-What do you think you're doing well, either through hard work and focus or natural ability. This could be anything, but please come prepared to provide examples.
-
-##### What are my development opportunities?
-
-Where do you think you could develop yourself professionally to improve your skill-set and performance? Again, this could be anything.
-
-Lastly, you may also want to consider some ideas for goals, although these will be worked on properly together with your manager during the meeting.
-
-### One on ones (1:1s)
-1:1s are a 30 minute informal call every 2 weeks between you and your manager. They provide an opportunity to find out how you are, and give even the smallest grievance a chance to be heard. Use your 1:1 as an opportunity to:
-
-- Discuss how you're feeling.
-- Discuss how your work has been going.
-- Surface any specific problems or challenges.
-- Highlight any triumphs or learnings.
-- Check your progress against your 6 monthly performance goals.
-- Talk about anything else related to you and your role at Leaf.
-
-The purpose of the 1:1 is to make sure nothing important goes unaddressed or unnoticed so you're as satisfied with your work as possible. You needn't do any significant prepartion for your 1:1, but do come with things to talk about even if it's just an "all clear" on the above bullet points.
 
 ### Working hours
 We work 37.5 hour weeks at Leaf, but are flexible with when those are worked. For example, you could work a standard 9am-5:30pm with an hour break for lunch every day, or chunk your day up into 3 stretches so you can get a gym session and dog walk in, or even start and finish later so you can sleep in. These are all fine.
@@ -185,7 +129,7 @@ Anything used primarily by our design team is outlined in the [designer's handbo
 
 Any engineering tools used extensively at Leaf are listed [developer's handbook][2].
 
-## Time tracking
+## Time Tracking
 
 ### How we track time
 We use [Harvest][3] to track our billable activity at work.
@@ -221,3 +165,63 @@ From time to time, you'll either forget to start a timer, or you'll leave one ru
 [1]: #
 [2]: #
 [3]: https://www.getharvest.com
+
+
+## Career Progression
+
+### One on ones (1:1s)
+1:1s are a 30 minute informal call every 2 weeks between you and your manager. They provide an opportunity to find out how you are, and give even the smallest grievance a chance to be heard. Use your 1:1 as an opportunity to:
+
+- Discuss how you're feeling.
+- Discuss how your work has been going.
+- Surface any specific problems or challenges.
+- Highlight any triumphs or learnings.
+- Check your progress against your 6 monthly performance goals.
+- Talk about anything else related to you and your role at Leaf.
+
+The purpose of the 1:1 is to make sure nothing important goes unaddressed or unnoticed so you're as satisfied with your work as possible. You needn't do any significant prepartion for your 1:1, but do come with things to talk about even if it's just an "all clear" on the above bullet points.
+
+### Performance Reviews
+
+Performance reviews are a formal opportunity for us to collectively take a look at your past, and your future, with Leaf. They're a 6-monthly meeting in which we collectively talk about what you've been doing, where we collectively think your strengths lie and where we collectively think your development opportunities are.
+
+#### Your plan
+The outcome of your performance review should be joint agreement on a plan for the next 6 months for your own personal development, that aligns with where Leaf is headed as a business. This plan is comprised of a few (typically 1 to 4) **6-month goals**, which can either be building upon a strength, improving on a development opportunity, or even introducing something completely new.
+
+Your 6-month goals should be:
+
+- **Aligned** to your personal development interests, and Leaf's interests as a business.
+- **Achievable** within 6 months, or before your next review. Don't take on too much.
+- **Measurable**, either tangibly or anecdotally. Either way there should be evidence to support your achievement at your next review.
+
+This all sounds very serious, but don't worry, it's very much your plan. If a goal doesn't work out for you, we can just talk through the reasons why at your next review and course-correct from there.
+
+#### The format
+
+The performance review is always a face-to-face meeting, and will be with your manager; either Chris or Mike. In the meeting, you and your manager should come prepared with answers to the following questions:
+
+##### How have the past 6 months been generally?
+
+How are you feeling about yourself and your work? Have things been easy or hard? Have you learned a lot or not? Are there any non-work related issues you'd like to discuss?
+
+##### What have I been doing?
+
+Just some brief headlines on things you've been working on, more detailed than just a list of client or project names, but doesn't need to detail every little change. If you had some goals set in your previous review, how have you progressed on against those? These just provide some reference points for discussion.
+
+##### What's been good?
+
+What have you enjoyed about your job? This could be anything.
+
+##### What could have been better?
+
+What aspects of your job haven't you enjoyed so much. Again, it could be anything.
+
+##### Where do my strengths lie?
+
+What do you think you're doing well, either through hard work and focus or natural ability. This could be anything, but please come prepared to provide examples.
+
+##### What are my development opportunities?
+
+Where do you think you could develop yourself professionally to improve your skill-set and performance? Again, this could be anything.
+
+Lastly, you may also want to consider some ideas for goals, although these will be worked on properly together with your manager during the meeting.
