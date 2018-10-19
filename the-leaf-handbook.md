@@ -87,10 +87,9 @@ Lastly, you may also want to consider some ideas for goals, although these will 
 The purpose of the 1:1 is to make sure nothing important goes unaddressed or unnoticed so you're as satisfied with your work as possible. You needn't do any significant prepartion for your 1:1, but do come with things to talk about even if it's just an "all clear" on the above bullet points.
 
 ### Working hours
+We work 37.5 hour weeks at Leaf, but are flexible with when those are worked. For example, you could work a standard 9am-5:30pm with an hour break for lunch every day, or chunk your day up into 3 stretches so you can get a gym session and dog walk in, or even start and finish later so you can sleep in. These are all fine.
 
-We work seven and a half hour days at Leaf, but are comfortable with when that's worked. For example, If you start at 9am, you're good to clock off at 5.30pm. Need to finish early? 8am - 4.30pm is fine too. The same applies for instances when you need to nip out during the working day; simply make up the time either side of the errand.
-
-The only thing we ask is that, if you're working directly with a client, that you map to their working hours as closely as possible, to allow for timely communications.
+Whatever your normal routine, we do ask that you communicate deviations from it ahead of time, so everyone knows what's going on. For example, if your best friend is in town and asked if you want to hang out for a few hours, that's fine, but let people know the day before, rather than announcing it to everyone right as you to head out.
 
 ### Mobility
 
