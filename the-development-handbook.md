@@ -71,6 +71,7 @@ Unless a client has other hosting arranged, we host most of our projects on [Her
 ## Writing code
 
 ### Developer experience
+
 In order to work efficiently, we need to keep our projects hassle-free to work with. This is "developer experience". Signs of good developer experience on a project include:
 
  - A setup process that a newbie can follow
