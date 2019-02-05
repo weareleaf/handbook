@@ -14,7 +14,7 @@
 
 The Leaf Handbook exists to help describe how we work, how we think, and what's important to us. You'll inevitably have questions, both upon joining us and throughout your employment, and we'll do our best to answer as many of them as possible.
 
-The Handbook is a collaborative document, and like Leaf as a collective, we want everyone to feel part of it. If you think we're missing a key topic or have got something completely wrong, we want you to help drive that change. 
+The Handbook is a collaborative document, and like Leaf as a collective, we want everyone to feel part of it. If you think we're missing a key topic or have got something completely wrong, we want you to help drive that change.
 
 ## Joining Leaf
 
@@ -60,34 +60,34 @@ Humans are imperfect, with a range of abilities, emotions, and personalities. By
 ### We're all equal
 
 > "None of us is as smart as all of us."
-> 
+>
 > – Ken H Blanchard
 
-Wading through monotonous, proscriptive tasks on autopilot isn't how any of us want to spend our days; each member of the team is given the autonomy and trust to shape anything from a client project to the company itself.  
+Wading through monotonous, proscriptive tasks on autopilot isn't how any of us want to spend our days; each member of the team is given the autonomy and trust to shape anything from a client project to the company itself.
 
 ### Question everything
 
-Learning to instinctively ask 'why?' is one of the most powerful skills you'll ever learn. If you're unsure of something, it's probably not the one at fault. If something's confusing to you, it probably _is_ confusing. 
+Learning to instinctively ask 'why?' is one of the most powerful skills you'll ever learn. If you're unsure of something, it's probably not the one at fault. If something's confusing to you, it probably _is_ confusing.
 
 By thinking critically and taking nothing at face value, you'll uncover answers to questions you didn't know needed to be answered.
 
 ### Trust your teammates
 
 > "I can do things you cannot, you can do things I cannot; together we can do great things."
-> 
+>
 > – Mother Teresa
 
 Whilst every company have their own interpretation of a good hire, we stubbornly take on only those who we feel are truly special individuals. The upshot of such an inflexible approach is that your teammates are all pretty wonderful at what they do.
 
-No one person has all of the answers, and we're better together than we are as individuals. Every single one of the team brings something different to the table, and leaning on them when you can will benefit everyone. 
+No one person has all of the answers, and we're better together than we are as individuals. Every single one of the team brings something different to the table, and leaning on them when you can will benefit everyone.
 
 ### Spend your time wisely
 
-> – "A man who dares to waste one hour of time has not discovered the value of life." 
-> 
+> – "A man who dares to waste one hour of time has not discovered the value of life."
+>
 > ― Charles Darwin
 
-Time is of course finite, and it's important to make the most of what we do have. By embracing time as our one true commodity, we're forced to focus first on the most important and impactful problems that need solving. 
+Time is of course finite, and it's important to make the most of what we do have. By embracing time as our one true commodity, we're forced to focus first on the most important and impactful problems that need solving.
 
 ### Be honest
 
@@ -99,24 +99,27 @@ Ok, so work won't always be like a day out at Legoland, but we want everyone to 
 
 ## How We Work
 
+### Our Workflow
+We've detailed how we go about our work and interactions with clients in [The SIMPLE Workflow](the-simple-workflow.md).
+
 ### Our primary toolkit
 
 Our tools of choice help the team work more efficiently and more collaboratively. Everyone will have tools that aid their own personal workflows, but our primary toolkit provides the backbone to everything we do.
 
 #### Slack
 
-As a remote company, keeping the team feeling connected is paramount, and Slack _is_ our office. Internal communications, from talking shop to talking shit, go through Slack. 
+As a remote company, keeping the team feeling connected is paramount, and Slack _is_ our office. Internal communications, from talking shop to talking shit, go through Slack.
 
 #### Basecamp
-  
+
 Basecamp is our go-to project management tool, and is used for managing both internal and client projects. Basecamp helps us increase accountability, improves client-communications, and keeps everyone looped and on the same page.
 
 #### Google Apps
 
-Wherever possible, we lean on the Google Apps suite: 
+Wherever possible, we lean on the Google Apps suite:
 
-- **Mail** keeps us connected with the outside World and non-project-related client communications 
-- **Calendar** is essential for client-scheduling 
+- **Mail** keeps us connected with the outside World and non-project-related client communications
+- **Calendar** is essential for client-scheduling
 - **Drive** stores team-specific files and documentation in the cloud
 - **Docs** allows the team to collaborate on anything content-based
 - **Sheets** helps us plan, review or crunch numbers
