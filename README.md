@@ -11,4 +11,4 @@ If you're reading this for the first time, take note, question things and offer 
 - [The Frontend Handbook](the-frontend-handbook.md)
 
 ## Workflows
-- [The SIMPLE Workflow (Start Here)](the-simple-workflow.md)
+- [The S.I.M.P.L.E Workflow (Start Here)](the-simple-workflow.md)
