@@ -132,6 +132,64 @@ Anything used primarily by our design team is outlined in the [designer's handbo
 
 Any engineering tools used extensively at Leaf are listed [developer's handbook][2].
 
+--
+
+## Internal communication
+
+As a remote team, our ability to function efficiently and effectively hangs largely on how well we communicate with one another. We believe the key to well-oiled remote communications is in the visibility of discussions, decisions, and outcomes.
+
+Thoughtful long-form updates are often more useful than rushed or ill-considered real-time updates. The underlying expectation of immediate responses only leads to half-baked answers and interrupted focus.
+
+Beyond formatting and tooling, we want everyone to be accountable for their own communications; when they're done badly, it simply makes more work for others, either in seeking clarification, or worse when misinterpretations are acted on. Seek to find any gaps in what you've written, rather than wait for gaps to appear further down the line.
+
+Finally, try to avoid sending any kind of updates outside of work hours. A 7pm update may be best for you, but that notification may drag others back into work-mode. If possible, hold back from messaging the team at the very start or end of the working day too, where communications stand the highest chance of being missed.
+
+### Basecamp
+
+As a general rule-of-thumb, if it's related to a piece of client-work (and for the purposes of this guideline, consider Leaf a client too), it should go in Basecamp.
+Basecamp's synchronous nature provides a window into our thinking and thought-processes, an opportunity for others to join or follow the conversation in their own time, and team-wide clarity on what was decided, and why.
+
+If you have an announcement or an idea, the Message Board is generally the right place to go. Conversely, if you have a task that you need help with, create a task in the appropriate To-dos area, or ask a question in an existing To-dos thread.
+
+Whatever the topic, be it an idea, an update, or a task, Basecamp's commenting features give us reliable, relevant places to discuss, critique, and question, right within its own context.
+
+### Slack
+
+From daily greetings to pet updates, Slack is ultimately our water-cooler area, intended to be used to keep the team feeling connected during the working day.
+
+Beyond salutations and dog-pics, Slack is still the right tool for quick questions between folks where the answer is of no value to anyone else. If anything does start organically in Slack and become useful, move the conversation to Basecamp, building a paper-trail and providing visibility to others.
+
+### Video call (Hangouts or Slack call)
+
+Completing our trifecta of communication options is video conferencing. Video calls are perfect for anything that needs either a tonne of fleshing out, lots of back-and-forth, or a whole lot of context and scene-setting.
+
+Slack calls are usually the best bet for impromptu conversations, and Hangouts more suitable for calls scheduled ahead of time.
+
+If the call is related to a client-project, and is of value to others in the team (i.e. you weren't fixing someone's local build process), write-up your notes in Basecamp, ensuring they’re clear and detailed enough to still be useful if someone dips back into the conversation 3-6 months later.
+
+### The right tool for the right job cheatsheet
+
+While there will always be exceptions, this table provides guidelines for how different tools should be used to communicate internally:
+
+| Example | Location | Tool |
+|:--|:--|:--|
+| An announcement introducing a new client. | Message Board (category: Announcement) | Basecamp |
+| An update of the task you’re working on. | To-dos thread | Basecamp |
+| An idea you’ve had for a new feature or approach to a project. | Message Board (category: Pitch) | Basecamp |
+| A question related to the task you’re working on. | To-dos thread | Basecamp |
+| A question related to the client project. | Message Board
+(category: Question) | Basecamp |
+| A request for design or engineering help on a non-urgent problem. | To-dos | Basecamp |
+| A request for design or engineering help on an urgent, progress-stopping problem. | Appropriate client channel | Slack |
+| A request for an individual’s email address. | Appropriate client channel | Slack |
+| Checking whether others are seeing the same issue as you. | Appropriate client channel | Slack |
+| Sharing a photo of your dog wearing a punkin waistcoat at Halloween. | #general | Slack |
+| Sharing a photo of someone else's dog wearing a punkin waistcoat at Halloween. | #random | Slack |
+| A request for design input on a project that the designer is unfamiliar with. | - | Slack call |
+| A routine weekly catch-up. | - | Hangouts |
+
+--
+
 ## Time Tracking
 
 ### How we track time
