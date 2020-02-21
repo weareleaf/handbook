@@ -165,7 +165,7 @@ Slack calls are usually the best bet for impromptu conversations, and Hangouts m
 
 If the call is related to a client-project, and is of value to others in the team (i.e. you weren't fixing someone's local build process), write-up your notes in Basecamp, ensuring they’re clear and detailed enough to still be useful if someone dips back into the conversation 3-6 months later.
 
-### The right tool for the right job cheatsheet
+### Tools cheatsheet
 
 While there will always be exceptions, this table provides guidelines for how different tools should be used to communicate internally:
 
@@ -175,8 +175,7 @@ While there will always be exceptions, this table provides guidelines for how di
 | An update of the task you’re working on. | To-dos thread | Basecamp |
 | An idea you’ve had for a new feature or approach to a project. | Message Board (category: Pitch) | Basecamp |
 | A question related to the task you’re working on. | To-dos thread | Basecamp |
-| A question related to the client project. | Message Board
-(category: Question) | Basecamp |
+| A question related to the client project. | Message Board (category: Question) | Basecamp |
 | A request for design or engineering help on a non-urgent problem. | To-dos | Basecamp |
 | A request for design or engineering help on an urgent, progress-stopping problem. | Appropriate client channel | Slack |
 | A request for an individual’s email address. | Appropriate client channel | Slack |
