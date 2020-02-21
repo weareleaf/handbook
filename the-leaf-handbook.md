@@ -132,8 +132,6 @@ Anything used primarily by our design team is outlined in the [designer's handbo
 
 Any engineering tools used extensively at Leaf are listed [developer's handbook][2].
 
---
-
 ## Internal communication
 
 As a remote team, our ability to function efficiently and effectively hangs largely on how well we communicate with one another. We believe the key to well-oiled remote communications is in the visibility of discussions, decisions, and outcomes.
@@ -187,8 +185,6 @@ While there will always be exceptions, this table provides guidelines for how di
 | Sharing a photo of someone else's dog wearing a punkin waistcoat at Halloween. | #random | Slack |
 | A request for design input on a project that the designer is unfamiliar with. | - | Slack call |
 | A routine weekly catch-up. | - | Hangouts |
-
---
 
 ## Time Tracking
 
