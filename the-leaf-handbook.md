@@ -1,6 +1,6 @@
 # The Leaf Handbook
 
-## Table of Contents
+## Table of contents
 
 - [Welcome](#welcome)
 - [Joining Leaf](#joining-leaf)

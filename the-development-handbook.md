@@ -1,6 +1,6 @@
 # The Development Handbook
 
-## Table of Contents
+## Table of contents
 - [Remember the client](#remember-the-client)
 - [Projects](#projects)
 - [Writing code](#writing-code)

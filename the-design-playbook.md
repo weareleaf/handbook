@@ -1,6 +1,6 @@
-# Design playbook
+# The Design Playbook
 
-## Table of Contents
+## Table of contents
 
 - [Purpose of the playbook](#purpose-of-the-playbook)
 - [Initial questions](#initial-questions)

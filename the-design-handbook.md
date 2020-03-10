@@ -1,6 +1,6 @@
 # The Design Handbook
 
-## Table of Contents
+## Table of contents
 
 * [Welcome](#welcome)
 * [What design means to us](#what-design-means-to-us)

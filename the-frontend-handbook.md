@@ -1,6 +1,6 @@
 # The Frontend Handbook
 
-## Table of Contents
+## Table of contents
 
 * [Welcome](#welcome)
 * [HTML](#html)
@@ -18,7 +18,7 @@ Anyone with a little knowhow and determination can make a website, but crafting 
 We use HTML to structure everything we do. It's an incredibly forgiving language, which means it's important to apply a good dose of discipline when writing it. Good HTML is semantic; great HTML is inclusive.  
 
 ### Pug
-  
+
 We need additional firepower, [Pug][1] (formerly Jade) is our go-to HTML preprocessor. It's JavaScript based template engine which not only removed markup redundancies, but offers-up a whole bunch of functionality, including conditionals, mixins, and includes.
 
 ### General principles
@@ -27,7 +27,7 @@ Explain.
 - Use soft tabs with two spaces
 - Nested elements should be indented once
 - Use "double quotes" around any attribute
-- Don't include a trailing `/` on self-closing elements 
+- Don't include a trailing `/` on self-closing elements
 - If you open an element, close it too
 
 ```html
@@ -71,12 +71,12 @@ Explain.
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-		
+
     <title>Leaf Software Ltd</title>
-		
+
     <link href="style.css" rel="stylesheet">
   </head>
-	
+
   <body>
     <input type="submit" disabled>
   </body>
@@ -85,7 +85,7 @@ Explain.
 
 ### Attribute order
 
-HTML attributes should be presented in a specific order, making the markup more consistent and easier to read. Identifying attributes should come first, followed by descriptors, and finally, accessibility-related attributes. 
+HTML attributes should be presented in a specific order, making the markup more consistent and easier to read. Identifying attributes should come first, followed by descriptors, and finally, accessibility-related attributes.
 
 1. class
 2. id
