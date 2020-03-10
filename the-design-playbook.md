@@ -76,8 +76,8 @@ Design decisions made in isolation lack the context needed to truly understand t
 
 Forms laid out across multi-columns result in a higher frequency of user error and a slower and lower completion rate. With multi-column layouts, users are more prone to both entering information in the wrong field, or even missing the field entirely.
 
-https://cxl.com/research-study/form-field-usability/
-https://baymard.com/blog/avoid-multi-column-forms
+- https://cxl.com/research-study/form-field-usability/
+- https://baymard.com/blog/avoid-multi-column-forms
 
 ### Create visual relationships through proximity and white-space
 
@@ -85,15 +85,15 @@ Create visual associations between related labels and inputs by placing the elem
 
 Beyond labels and inputs, look to simplify long and daunting forms by grouping related fields, creating the illusion of smaller, less overwhelming forms.
 
-https://www.nngroup.com/articles/form-design-white-space/
+- https://www.nngroup.com/articles/form-design-white-space/
 
 ### Place form labels above the field
 
 Users complete top aligned labeled forms at a much higher rate than left aligned labels. Top aligned labels also translate well on mobile. However, consider using left aligned labels for large data-set entry with variable optionality because they are easier to scan together, they reduce height, and prompt more consideration than top aligned labels.
 
-https://www.uxmatters.com/mt/archives/2006/07/label-placement-in-forms.php
-https://baymard.com/blog/mobile-form-usability-label-position
-https://www.nngroup.com/articles/form-design-placeholders/
+- https://www.uxmatters.com/mt/archives/2006/07/label-placement-in-forms.php
+- https://baymard.com/blog/mobile-form-usability-label-position
+- https://www.nngroup.com/articles/form-design-placeholders/
 
 ### You probably don't want to use a dropdown
 
@@ -103,10 +103,10 @@ On iOS devices, a dropdown required 4 separate interactions to make a single sel
 
 As a general rule of thumb, avoid dropdowns when there are more than 10, but fewer than 5 options. The most common use-case is the sorting-preference of a list, where space is limited, and the interaction non-essential.
 
-https://designsmarts.co/the-problem-with-dropdowns
-https://www.lukew.com/ff/entry.asp?1950
-https://baymard.com/blog/drop-down-usability
-https://www.nngroup.com/articles/drop-down-menus/
+- ttps://designsmarts.co/the-problem-with-dropdowns
+- https://www.lukew.com/ff/entry.asp?1950
+- https://baymard.com/blog/drop-down-usability
+- https://www.nngroup.com/articles/drop-down-menus/
 
 ### Make the process as simple as possible
 
@@ -116,7 +116,7 @@ One of our primary objectives as data collectors is to make the process of provi
 
 Make sure any essential instructions (e.g. the format of a new password), are visible at all times. Hiding such information within helper text, tooltips, or in error messages only increases the likelihood of failed submissions and abandoned sessions.
 
-https://www.nngroup.com/articles/form-design-placeholders/
+- https://www.nngroup.com/articles/form-design-placeholders/
 
 ### Write implied, actionable error messages
 
@@ -136,7 +136,7 @@ The variance between address formats Worldwide is considerable, from the order a
 
 Language and field presentation is a great way to communicate to your users who your product is intended for, and who it isn't.
 
-https://ux.shopify.com/designing-address-forms-for-everyone-everywhere-f481f6baf513
+- https://ux.shopify.com/designing-address-forms-for-everyone-everywhere-f481f6baf513
 
 ## Accessibility
 
@@ -168,13 +168,13 @@ The Web Content Accessibility Guidelines (WCAG) recommend a minimum level for co
 
 For any project, the colour contrast should pass [WCAG 2.0 AA standards](https://webaim.org/blog/wcag-2-0-and-link-colors/), with Level AAA conformance recommended for projects where a significant number of users may suffer from some sort of sight impairment.
 
-https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/
+- https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/
 
 ## Don't ever rely on colour alone
 
 Colour shouldn't be used in isolation to indicate or infer meaning or feedback to the user. For example, the user of colour to highlight particular rows in a table, or a an error on an input, should be supplemented with text and/or iconography.
 
-https://webaim.org/articles/contrast/
+- https://webaim.org/articles/contrast/
 
 ### Always include a document language
 
