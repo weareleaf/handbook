@@ -103,7 +103,7 @@ On iOS devices, a dropdown required 4 separate interactions to make a single sel
 
 As a general rule of thumb, avoid dropdowns when there are more than 10, but fewer than 5 options. The most common use-case is the sorting-preference of a list, where space is limited, and the interaction non-essential.
 
-- ttps://designsmarts.co/the-problem-with-dropdowns
+- https://designsmarts.co/the-problem-with-dropdowns
 - https://www.lukew.com/ff/entry.asp?1950
 - https://baymard.com/blog/drop-down-usability
 - https://www.nngroup.com/articles/drop-down-menus/
