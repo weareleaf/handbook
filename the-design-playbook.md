@@ -6,6 +6,7 @@
 - [Initial questions](#initial-questions)
 - [Forms](#forms)
 - [Accessibility](#accessibility)
+- [Psychology](#psychology)
 
 ## Purpose of the playbook
 
@@ -120,7 +121,7 @@ Make sure any essential instructions (e.g. the format of a new password), are vi
 
 ### Write implied, actionable error messages
 
-Avoid using software-driven words such 'error' or 'invalid'; the very presence of an error message, along with steps to address the issue, imply that there's a problem.
+Avoid using software-driven words such as 'error' or 'invalid'; the very presence of an error message, along with steps to address the issue, imply that there's a problem.
 
 ### Present error messages inline
 
@@ -170,23 +171,23 @@ For any project, the colour contrast should pass [WCAG 2.0 AA standards](https:/
 
 - https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/
 
-## Don't ever rely on colour alone
+### Don't ever rely on colour alone
 
-Colour shouldn't be used in isolation to indicate or infer meaning or feedback to the user. For example, the user of colour to highlight particular rows in a table, or a an error on an input, should be supplemented with text and/or iconography.
+Colour shouldn't be used in isolation to indicate or infer meaning or feedback to the user. For example, the use of colour to highlight particular rows in a table, or an error on an input, should be supplemented with text and/or iconography.
 
 - https://webaim.org/articles/contrast/
 
 ### Always include a document language
 
-Each language has its own pronunciation rules, and you should use the `lang` attribute on the `html` element to tell assistive technologies which primary language the page content is written in. If your page of your page is English for example, you'd want `<html lang="en">`.
+Each language has its own pronunciation rules, and you should use the `lang` attribute on the `html` element to tell assistive technologies which primary language the page content is written in. If your page  is in English for example, you'd want `<html lang="en">`.
 
 ### Always include a main element
 
-By wrapping the your page content (everything that isn't a header, navigation, or footer) in a  `<main>` element, you're defining a page landmark that assistive technologies understand.
+By wrapping your page content (everything that isn't a header, navigation, or footer) in a  `<main>` element, you're defining a page landmark that assistive technologies understand.
 
 ### Include captions when including audio or video
 
-Captions are synchronised text equivalents of the spoken word, intended primarily for users with cannot hear audio, and should be included alongside any audio and video content.
+Captions are synchronised text equivalents of the spoken word, intended primarily for users who cannot hear audio, and should be included alongside any audio and video content.
 
 ### Useful links
 
@@ -195,3 +196,85 @@ Captions are synchronised text equivalents of the spoken word, intended primaril
 - https://moritzgiessmann.de/accessibility-cheatsheet
 - https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag
 - https://adrianroselli.com/2017/02/not-all-screen-reader-users-are-blind.html
+
+## Psychology
+
+- [Organise your content into smaller groups](#organise-your-content-into-smaller-groups)
+- [Only show additional features if the user asks for them](#only-show-additional-features-if-the-user-asks-for-them)
+- [Position key items at the top and bottom of a section](#position-key-items-at-the-top-and-bottom-of-a-section)
+- [Limit the number of choices you present to a user](#limit-the-number-of-choices-you-present-to-a-user)
+- [Increase the chance of important items being noticed first](#increase-the-chance-of-important-items-being-noticed-first)
+- [Make sure to include all relevant information](#make-sure-to-include-all-relevant-information)
+- [Offer suggestions for faster decision making](#offer-suggestions-for-faster-decision-making)
+- [Useful links](#useful-links)
+
+### Organise your content into smaller groups
+
+According to Miller’s Law, most people can only hold around 5 to 9 items in their short-term memory. Presenting users with long lists of content makes it harder for them to keep track of the information and remember it effectively.
+
+If you’re working with written content for example, you can create clear visual hierarchies with headings and subheadings, and use short paragraphs with white space to separate them. By breaking content into smaller groups, it helps the user scan the information faster and recall what they’ve read more accurately.
+
+- https://www.nngroup.com/articles/chunking/
+
+### Only show additional features if the user asks for them
+
+Progressive Disclosure shows the most important or common features first, and hides more advanced and secondary actions unless the user requests them. Deferring rarely used or advanced features makes applications easier to learn, and allows people to prioritise their attention on the more common or easier tasks.
+
+A settings page is a great example of showing advanced options when requested. Instead of presenting all of the controls at once, you should only display the key settings that will benefit all users. This helps less experienced users avoid mistakes, and means they don’t have to spend time trying to understand features they don’t need.
+
+- https://www.nngroup.com/articles/progressive-disclosure/
+- https://www.shopify.com/partners/blog/progressive-disclosure
+
+### Position key items at the top and bottom of a section
+
+When viewing an unfamiliar list, we tend to remember the first and last items better than the items in the middle. This is known as the serial position effect, and is caused by the way in which our long and short-term memory stores new information.
+
+Product pages are a good example of where this effect can be applied. You can help cement the key information in the users long-term memory by including the benefits of buying at the top of the page. You can also help the users short-term memory and decision making by placing the actionable purchase options at the bottom.
+
+- https://medium.com/@coffeeandjunk/design-psychology-serial-position-effect-ca0e4cf299cb
+- https://www.interaction-design.org/literature/article/serial-position-effect-how-to-create-better-user-interfaces
+
+### Limit the number of choices you present to a user
+
+Hick’s law states that the more choices you offer someone, the longer it takes them to reach a decision. Too many options cause people to overthink their decision, increasing the likelihood of them not choosing anything at all.
+
+If you’re dealing with a navigation that has lots of links for example, presenting all of the links at once could become overwhelming for the user. Instead, aim to categorise the links into smaller parent groups to help users find the choices they need much faster.
+ 
+- https://www.designorate.com/hicks-law-building-usable-navigations/
+- https://uxdesign.cc/ux-inspiration-4-hicks-law-d7a8c4d9c007
+
+### Increase the chance of important items being noticed first
+
+The Von Restorff effect explains how we can isolate an object to make it stand out against other, similar objects. By creating a visual contrast using size, shape, or colour, the object is more likely to be noticed first and remembered for longer.
+
+Highlighting a recommended subscription plan is a good example of using visual differences to increase the focus on one option over the others. Design cues such as a contrasting border or recommended banner (e.g. Most popular), help increase the chance of users noticing the preferred plan first.
+
+- https://uxdesign.cc/ux-inspiration-3-the-von-restorff-effect-d0cb73f7adc5
+- https://lawsofux.com/von-restorff-effect
+
+### Make sure to include all relevant information
+
+The ambiguity effect is when people view missing or unclear information negatively, which can impact the users' trust in your brand and make them less likely to continue using your product.
+
+Clearly explain what your links and call to actions do, and avoid writing vague instructions or copy that could be open to more than one meaning. Being completely up-front about your intentions and what the user can expect means they don’t become confused or make a mistake.
+
+- https://medium.com/@michaelgearon/cognitive-biases-ambiguity-effect-e0fe2c213061
+
+### Offer suggestions for faster decision making
+
+The default effect shows that making an option the default choice increases the chance that someone will stick with that option. Defaults can be a recommended option that predict the user's intention based on common choices, and help them understand what the expected action normally is.
+
+If a user is entering their payment details in a checkout flow for example, you can look for opportunities to reuse previously entered information such as defaulting the payment address to match the shipping address. You could also pre-select an option such as the delivery cost. Users often scan the choices available, and if a suggested choice has already been made, users will be less inclined to decide against it.
+
+- https://www.shopify.com/partners/blog/cognitive-load
+- https://www.nngroup.com/articles/the-power-of-defaults/
+- https://uxplanet.org/how-to-influence-choice-through-default-options-50e59152dc1a
+
+### Useful links
+
+- https://lawsofux.com/aesthetic-usability-effect.html
+- https://careerfoundry.com/en/blog/ux-design/psychology-principles-for-ux-designers/#2-jakobs-law
+- https://blog.prototypr.io/7-principal-psychological-phenomena-in-ux-design-1104e09fc974
+- https://uxdesign.cc/the-psychology-of-ux-design-859439bc8a32
+- https://www.nngroup.com/topic/psychology-and-ux/
+- https://mopinion.com/guide-to-psychology-principles-in-ux-design/
